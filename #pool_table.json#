@@ -1,0 +1,1 @@
+x{"server#1": ["SECONDARY", "DOWN", "NONE"], "server#2": ["SECONDARY", "ALIVE", "NONE"], "server#3": ["PRIMARY", "ALIVE", "NONE"]}

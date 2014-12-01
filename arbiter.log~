@@ -1,0 +1,30 @@
+INFO:root:[INFO][2014-11-30 01:26:58.710590]HB Requesting to server #1--> HB request
+INFO:root:[INFO][2014-11-30 01:26:58.723708]Received --> The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command(<-- server#1)
+INFO:root:[INFO][2014-11-30 01:27:44.609049]HB Requesting to server #1--> HB request
+INFO:root:[WARNING][2014-11-30 01:27:44.620247]Server#<type 'exceptions.TypeError'> is DOWN!
+INFO:root:[WARNING][DETAIL]Traceback (most recent call last):
+  File "arbiter.py", line 33, in <module>
+    received = RPC_Server.heartbeat(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+TypeError: heartbeat() takes exactly 3 arguments (2 given)
+
+INFO:root:[INFO][2014-11-30 01:28:19.827639]HB Requesting to server #1--> HB request
+INFO:root:[WARNING][2014-11-30 01:28:19.838235]Server#<type 'exceptions.AttributeError'> is DOWN!
+INFO:root:[WARNING][DETAIL]Traceback (most recent call last):
+  File "arbiter.py", line 33, in <module>
+    received = RPC_Server.heartbeat(request, random_server)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'RPC_Server' object has no attribute 'server'
+
+INFO:root:[INFO][2014-11-30 01:29:29.780584]HB Requesting to server #1--> HB request
+INFO:root:[INFO][2014-11-30 01:29:29.790664]Received --> Server#1 us ALIVE with no update.
+INFO:root:[INFO][2014-11-30 01:30:32.472176]HB Requesting to server #1--> HB request
+INFO:root:[INFO][2014-11-30 01:30:32.482952]Received --> Server#1 is ALIVE with no update.
+INFO:root:[INFO][2014-11-30 01:30:34.053028]HB Requesting to server #1--> HB request
+INFO:root:[INFO][2014-11-30 01:30:34.063487]Received --> Server#1 is ALIVE with no update.

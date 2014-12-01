@@ -1,0 +1,1136 @@
+INFO:root:[INFO][2014-12-01 02:00:38.991352]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:00:39.002830]Received --> local DB status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:00:48.900347]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:00:48.913413]Received --> local DB status: {'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Weihan3': '2065197252', u'test1': u'test1', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:00:53.424684]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:00:53.438267]Received --> local DB status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:27:34.240004]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:27:34.251056]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Weihan3': '2065197252', u'test1': u'test1', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:27:39.828774]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:27:39.839620]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Weihan3': '2065197252', u'test1': u'test1', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:27:40.915970]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:27:40.927598]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:27:48.339897]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:27:48.350367]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Weihan3': '2065197252', u'test1': u'test1', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:27:56.862772]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:27:56.875411]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:27:58.444005]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:27:58.454517]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:28:05.751245]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:28:05.762379]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:28:14.509947]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:28:14.520369]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:28:15.528575]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:28:15.539450]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Weihan3': '2065197252', u'test1': u'test1', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:28:16.439900]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:28:16.451518]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Weihan3': '2065197252', u'test1': u'test1', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:28:21.904252]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:28:21.915411]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:28:24.873622]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:28:24.885298]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:28:42.774652]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:28:42.786100]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:28:44.876396]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:28:44.887059]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:28:45.863328]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:28:45.874746]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:28:46.705709]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:28:46.717562]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:28:47.567232]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:28:47.578838]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:28:48.411572]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:28:48.422110]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Weihan3': '2065197252', u'test1': u'test1', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:33:05.185777]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:33:05.199128]Received --> local DB (a copy of Primary) status: {}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:33:10.931417]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:33:10.942707]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:33:12.034857]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:33:12.047071]Received --> local DB (a copy of Primary) status: {}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:33:13.619344]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:33:13.629811]Received --> local DB (a copy of Primary) status: {}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:33:14.501533]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:33:14.512667]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:33:15.356645]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:33:15.367072]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:33:16.179102]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:33:16.190298]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:33:31.940334]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:33:31.951560]Received --> local DB (a copy of Primary) status: {}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:33:33.745964]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:33:33.756517]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:33:38.039460]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:33:38.049970]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:35:09.817259]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:35:09.827789]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person1': u'number1'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:35:12.102167]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:35:12.114070]Received --> local DB (a copy of Primary) status: {}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:44:19.882102]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:44:19.893313]Received --> local DB (a copy of Primary) status: {}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:44:21.051209]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:44:21.064227]Received --> local DB (a copy of Primary) status: {}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:44:21.795428]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:44:21.807246]Received --> local DB (a copy of Primary) status: {}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:44:22.523299]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:44:22.535572]Received --> local DB (a copy of Primary) status: {}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:44:23.207194]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:44:23.219385]Received --> local DB (a copy of Primary) status: {}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:44:23.849592]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:44:23.860293]Received --> local DB (a copy of Primary) status: {}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:44:24.477756]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:44:24.488199]Received --> local DB (a copy of Primary) status: {}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:44:24.963987]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:44:24.974764]Received --> local DB (a copy of Primary) status: {}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:44:25.459132]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:44:25.469585]Received --> local DB (a copy of Primary) status: {}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:45:45.337922]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:45:45.348300]Received --> local DB (a copy of Primary) status: {}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:45:46.816800]Requesting to server #1--> QUERY locally
+INFO:root:[ERROR][2014-12-01 02:45:46.825647]Error Connecting the server -- <class 'Pyro4.errors.CommunicationError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 231, in __getattr__
+    self._pyroGetMetadata()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 475, in _pyroGetMetadata
+    self.__pyroCreateConnection()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 441, in __pyroCreateConnection
+    raise ce
+CommunicationError: cannot connect: [Errno 111] Connection refused
+
+INFO:root:[INFO][2014-12-01 02:45:48.034081]Requesting to server #1--> QUERY locally
+INFO:root:[ERROR][2014-12-01 02:45:48.043123]Error Connecting the server -- <class 'Pyro4.errors.CommunicationError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 231, in __getattr__
+    self._pyroGetMetadata()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 475, in _pyroGetMetadata
+    self.__pyroCreateConnection()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 441, in __pyroCreateConnection
+    raise ce
+CommunicationError: cannot connect: [Errno 111] Connection refused
+
+INFO:root:[INFO][2014-12-01 02:45:48.839602]Requesting to server #1--> QUERY locally
+INFO:root:[ERROR][2014-12-01 02:45:48.849407]Error Connecting the server -- <class 'Pyro4.errors.CommunicationError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 231, in __getattr__
+    self._pyroGetMetadata()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 475, in _pyroGetMetadata
+    self.__pyroCreateConnection()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 441, in __pyroCreateConnection
+    raise ce
+CommunicationError: cannot connect: [Errno 111] Connection refused
+
+INFO:root:[INFO][2014-12-01 02:45:49.649950]Requesting to server #1--> QUERY locally
+INFO:root:[ERROR][2014-12-01 02:45:49.658826]Error Connecting the server -- <class 'Pyro4.errors.CommunicationError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 231, in __getattr__
+    self._pyroGetMetadata()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 475, in _pyroGetMetadata
+    self.__pyroCreateConnection()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 441, in __pyroCreateConnection
+    raise ce
+CommunicationError: cannot connect: [Errno 111] Connection refused
+
+INFO:root:[INFO][2014-12-01 02:45:51.111052]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:45:51.121788]Received --> local DB (a copy of Primary) status: {}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:46:52.004660]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:46:52.016693]Received --> local DB (a copy of Primary) status: {}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:51:05.589327]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:51:05.600482]Received --> local DB (a copy of Primary) status: {}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:57:00.495164]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:57:00.508989]Received --> local DB (a copy of Primary) status: {}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:57:04.022385]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:57:04.033979]Received --> local DB (a copy of Primary) status: {}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:57:05.304717]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:57:05.315847]Received --> local DB (a copy of Primary) status: {}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:57:06.369356]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:57:06.382178]Received --> local DB (a copy of Primary) status: {}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:57:07.039561]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:57:07.050268]Received --> local DB (a copy of Primary) status: {}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:57:07.731756]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:57:07.744180]Received --> local DB (a copy of Primary) status: {}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:57:08.263522]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:57:08.275205]Received --> local DB (a copy of Primary) status: {}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:57:08.725225]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:57:08.735861]Received --> local DB (a copy of Primary) status: {}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:57:09.173397]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:57:09.185156]Received --> local DB (a copy of Primary) status: {}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:57:09.641265]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:57:09.654329]Received --> local DB (a copy of Primary) status: {}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:57:10.136284]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:57:10.148045]Received --> local DB (a copy of Primary) status: {}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:57:10.602753]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:57:10.614393]Received --> local DB (a copy of Primary) status: {}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:57:11.077538]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:57:11.089342]Received --> local DB (a copy of Primary) status: {}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:57:11.756775]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:57:11.768527]Received --> local DB (a copy of Primary) status: {}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:59:11.218491]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:59:11.230161]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:59:16.488875]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:59:16.500086]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:59:18.069927]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:59:18.082856]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:59:19.103312]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:59:19.114171]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:59:19.846110]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:59:19.857681]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:59:20.511394]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:59:20.522443]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:59:21.202088]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:59:21.213395]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:59:21.820967]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:59:21.832428]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 02:59:22.522428]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:59:22.534983]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:59:23.128553]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:59:23.140066]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 02:59:25.144017]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:59:25.154569]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:59:25.959340]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:59:25.970879]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 02:59:26.590626]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 02:59:26.601198]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:00:46.269921]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:00:46.281703]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:00:48.795132]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:00:48.809766]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:00:50.011274]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:00:50.024230]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:00:50.736100]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:00:50.747107]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:00:51.301730]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:00:51.312818]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:00:51.804589]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:00:51.815904]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:00:52.296439]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:00:52.307557]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:00:52.775385]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:00:52.786531]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:00:53.152179]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:00:53.163376]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:00:53.535322]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:00:53.546864]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:02:23.544798]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:23.555178]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:02:24.381003]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:24.393733]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:02:25.052139]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:25.062700]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:02:25.672477]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:25.684293]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:02:26.266084]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:26.277444]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:02:26.825860]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:26.837298]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:02:27.402988]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:27.414074]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:02:28.017704]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:28.028238]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:02:28.584903]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:28.596040]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:02:48.320443]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:48.331642]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:02:49.159258]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:49.170431]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:02:49.905391]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:49.916475]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:02:50.478681]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:50.489403]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:02:50.998383]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:51.011438]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:02:51.490987]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:51.502896]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:02:51.981598]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:51.993398]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:02:52.420349]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:52.432246]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:02:52.840568]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:52.851561]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:02:53.305821]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:53.316447]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:02:53.712118]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:53.724033]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:02:54.127429]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:54.138735]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:02:54.567564]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:54.578470]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:02:55.084720]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:55.095552]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:02:55.610728]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:55.621207]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:02:56.141578]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:56.152644]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:02:56.624195]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:56.635944]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:02:57.101705]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:57.113402]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:02:57.562258]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:02:57.573577]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:14:50.103357]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:14:50.115496]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:15:03.559237]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:03.573497]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:15:04.583756]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:04.597135]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:15:05.390594]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:05.401804]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:15:06.133071]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:06.145153]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:15:06.836773]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:06.847646]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:15:07.535169]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:07.546583]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:15:08.200104]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:08.212508]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:15:08.914775]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:08.926558]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:15:09.814943]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:09.826657]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:15:10.604466]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:10.615197]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:15:11.398977]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:11.410285]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:15:12.101727]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:12.113959]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:15:12.888185]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:12.900127]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:15:13.578607]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:13.591250]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:15:14.268312]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:14.281022]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:15:14.864277]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:14.875745]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:15:15.419360]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:15.430323]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:15:16.397937]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:16.409873]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:15:16.955960]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:16.967587]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:15:17.537757]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:17.548969]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:15:18.063548]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:18.078236]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:15:18.526093]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:15:18.538498]Received --> local DB (a copy of Primary) status: {'Jaylene2': '2533550659', 'Jaylene1': '2533550659', 'Weihan1': '2065197252', 'Weihan2': '2065197252'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:21:38.345236]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:38.356905]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:21:39.474911]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:39.487313]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:21:40.215877]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:40.228360]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:21:40.861228]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:40.874043]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:21:41.676394]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:41.688743]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:21:42.637317]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:42.649338]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:21:43.469459]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:43.481416]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:21:44.211224]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:44.221970]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:21:44.853289]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:44.867272]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:21:45.534437]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:45.546848]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:21:46.150179]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:46.161595]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:21:46.686854]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:46.698905]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:21:47.166320]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:47.177682]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:21:47.570900]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:47.581767]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:21:47.997332]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:48.008028]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:21:48.406632]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:48.419743]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:21:48.779713]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:48.791570]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:21:49.114169]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:21:49.125465]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:22:06.854422]Requesting to server #2--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:06.866169]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:22:07.925098]Requesting to server #1--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:07.938299]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:22:11.511710]Requesting to server #1--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:11.525382]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:22:12.192496]Requesting to server #1--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:12.203661]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:22:12.745434]Requesting to server #2--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:12.757068]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:22:13.221968]Requesting to server #1--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:13.234251]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:22:13.724180]Requesting to server #3--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:13.735660]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:22:14.217277]Requesting to server #1--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:14.228846]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:22:14.639422]Requesting to server #2--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:14.650029]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:22:15.009370]Requesting to server #2--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:15.021728]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:22:15.244737]Requesting to server #1--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:15.256407]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:22:15.482695]Requesting to server #1--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:15.497923]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:22:15.685211]Requesting to server #2--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:15.696653]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:22:15.871972]Requesting to server #3--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:15.883499]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:22:16.051400]Requesting to server #2--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:16.062816]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:22:16.225929]Requesting to server #1--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:16.237684]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:22:16.406183]Requesting to server #2--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:16.418421]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:22:16.585654]Requesting to server #3--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:16.598129]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:22:16.759426]Requesting to server #3--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:16.772049]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:22:16.917790]Requesting to server #1--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:16.932169]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:22:17.078009]Requesting to server #3--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:17.089066]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:22:17.234349]Requesting to server #1--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:17.246144]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:22:17.386724]Requesting to server #1--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:17.398025]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:22:17.540183]Requesting to server #3--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:17.550840]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:22:17.689800]Requesting to server #1--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:17.701404]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:22:17.849172]Requesting to server #3--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:17.859776]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:22:18.001741]Requesting to server #2--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:18.012317]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:22:18.153130]Requesting to server #2--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:18.164883]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:22:18.321140]Requesting to server #3--> GET Weihan1
+INFO:root:[INFO][2014-12-01 03:22:18.332043]Received --> The value of KEY "Weihan1" is 2065197252(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:22:28.447858]Requesting to server #1--> PUT test1 test1
+INFO:root:[ERROR][2014-12-01 03:22:28.459131]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'RPC_Server' object has no attribute 'self_check'
+
+INFO:root:[INFO][2014-12-01 03:24:52.994648]Requesting to server #1--> PUT test1 test1
+INFO:root:[INFO][2014-12-01 03:24:53.008623]Received --> Key/Value Pair {test1/test1} has been added to DB(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:25:07.229904]Requesting to server #2--> GET test1
+INFO:root:[ERROR][2014-12-01 03:25:07.239584]Error Connecting the server -- <class 'Pyro4.errors.CommunicationError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 231, in __getattr__
+    self._pyroGetMetadata()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 475, in _pyroGetMetadata
+    self.__pyroCreateConnection()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 441, in __pyroCreateConnection
+    raise ce
+CommunicationError: cannot connect: [Errno 111] Connection refused
+
+INFO:root:[INFO][2014-12-01 03:25:08.827246]Requesting to server #1--> GET test1
+INFO:root:[INFO][2014-12-01 03:25:08.840352]Received --> The KEY is not in DB. Try {QUERY} or {PUT} to add one.(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:25:13.184059]Requesting to server #3--> GET test1
+INFO:root:[ERROR][2014-12-01 03:25:13.192736]Error Connecting the server -- <class 'Pyro4.errors.CommunicationError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 231, in __getattr__
+    self._pyroGetMetadata()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 475, in _pyroGetMetadata
+    self.__pyroCreateConnection()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 441, in __pyroCreateConnection
+    raise ce
+CommunicationError: cannot connect: [Errno 111] Connection refused
+
+INFO:root:[INFO][2014-12-01 03:25:14.470920]Requesting to server #3--> GET test1
+INFO:root:[ERROR][2014-12-01 03:25:14.480329]Error Connecting the server -- <class 'Pyro4.errors.CommunicationError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 231, in __getattr__
+    self._pyroGetMetadata()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 475, in _pyroGetMetadata
+    self.__pyroCreateConnection()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 441, in __pyroCreateConnection
+    raise ce
+CommunicationError: cannot connect: [Errno 111] Connection refused
+
+INFO:root:[INFO][2014-12-01 03:25:15.588206]Requesting to server #3--> GET test1
+INFO:root:[ERROR][2014-12-01 03:25:15.596857]Error Connecting the server -- <class 'Pyro4.errors.CommunicationError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 231, in __getattr__
+    self._pyroGetMetadata()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 475, in _pyroGetMetadata
+    self.__pyroCreateConnection()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 441, in __pyroCreateConnection
+    raise ce
+CommunicationError: cannot connect: [Errno 111] Connection refused
+
+INFO:root:[INFO][2014-12-01 03:25:16.340899]Requesting to server #1--> GET test1
+INFO:root:[INFO][2014-12-01 03:25:16.352777]Received --> The KEY is not in DB. Try {QUERY} or {PUT} to add one.(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:25:17.202395]Requesting to server #3--> GET test1
+INFO:root:[ERROR][2014-12-01 03:25:17.210714]Error Connecting the server -- <class 'Pyro4.errors.CommunicationError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 231, in __getattr__
+    self._pyroGetMetadata()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 475, in _pyroGetMetadata
+    self.__pyroCreateConnection()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 441, in __pyroCreateConnection
+    raise ce
+CommunicationError: cannot connect: [Errno 111] Connection refused
+
+INFO:root:[INFO][2014-12-01 03:25:18.059037]Requesting to server #3--> GET test1
+INFO:root:[ERROR][2014-12-01 03:25:18.067993]Error Connecting the server -- <class 'Pyro4.errors.CommunicationError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 231, in __getattr__
+    self._pyroGetMetadata()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 475, in _pyroGetMetadata
+    self.__pyroCreateConnection()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 441, in __pyroCreateConnection
+    raise ce
+CommunicationError: cannot connect: [Errno 111] Connection refused
+
+INFO:root:[INFO][2014-12-01 03:25:18.995474]Requesting to server #3--> GET test1
+INFO:root:[ERROR][2014-12-01 03:25:19.005580]Error Connecting the server -- <class 'Pyro4.errors.CommunicationError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 231, in __getattr__
+    self._pyroGetMetadata()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 475, in _pyroGetMetadata
+    self.__pyroCreateConnection()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 441, in __pyroCreateConnection
+    raise ce
+CommunicationError: cannot connect: [Errno 111] Connection refused
+
+INFO:root:[INFO][2014-12-01 03:25:21.291148]Requesting to server #2--> PUT test1 test1
+INFO:root:[ERROR][2014-12-01 03:25:21.300293]Error Connecting the server -- <class 'Pyro4.errors.CommunicationError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 231, in __getattr__
+    self._pyroGetMetadata()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 475, in _pyroGetMetadata
+    self.__pyroCreateConnection()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 441, in __pyroCreateConnection
+    raise ce
+CommunicationError: cannot connect: [Errno 111] Connection refused
+
+INFO:root:[INFO][2014-12-01 03:25:23.100885]Requesting to server #2--> PUT test1 test1
+INFO:root:[ERROR][2014-12-01 03:25:23.109931]Error Connecting the server -- <class 'Pyro4.errors.CommunicationError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 231, in __getattr__
+    self._pyroGetMetadata()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 475, in _pyroGetMetadata
+    self.__pyroCreateConnection()
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 441, in __pyroCreateConnection
+    raise ce
+CommunicationError: cannot connect: [Errno 111] Connection refused
+
+INFO:root:[INFO][2014-12-01 03:25:23.739126]Requesting to server #1--> PUT test1 test1
+INFO:root:[INFO][2014-12-01 03:25:23.750530]Received --> Key/Value Pair {test1/test1} has been added to DB(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:25:29.305086]Requesting to server #1--> GET test1
+INFO:root:[INFO][2014-12-01 03:25:29.317365]Received --> The KEY is not in DB. Try {QUERY} or {PUT} to add one.(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:31:03.096665]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:03.108174]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:31:06.887292]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:06.898673]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:31:07.340089]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:07.350589]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:31:08.171960]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:08.182887]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:31:08.388410]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:08.399486]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:31:08.582160]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:08.595996]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:31:08.763253]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:08.774439]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:31:08.965448]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:08.977251]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:31:09.142585]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:09.155651]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:31:09.330930]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:09.342209]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:31:09.525247]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:09.537569]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:31:09.729601]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:09.741584]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:31:09.922121]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:09.935484]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:31:10.148104]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:10.160618]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:31:10.337730]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:10.350395]Received --> local DB (a copy of Primary) status: {'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:31:16.772349]Requesting to server #1--> PUT test1 test1
+INFO:root:[INFO][2014-12-01 03:31:16.784280]Received --> Key/Value Pair {test1/test1} has been added to DB(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:31:19.570778]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:19.582005]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:31:24.789556]Requesting to server #2--> GET test1
+INFO:root:[INFO][2014-12-01 03:31:24.800933]Received --> The value of KEY "test1" is test1(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:31:27.284942]Requesting to server #2--> GET test1
+INFO:root:[INFO][2014-12-01 03:31:27.296248]Received --> The value of KEY "test1" is test1(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:31:27.924292]Requesting to server #3--> GET test1
+INFO:root:[INFO][2014-12-01 03:31:27.935560]Received --> The value of KEY "test1" is test1(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:31:28.249867]Requesting to server #3--> GET test1
+INFO:root:[INFO][2014-12-01 03:31:28.260933]Received --> The value of KEY "test1" is test1(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:31:28.529619]Requesting to server #3--> GET test1
+INFO:root:[INFO][2014-12-01 03:31:28.540430]Received --> The value of KEY "test1" is test1(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:31:29.045950]Requesting to server #2--> GET test1
+INFO:root:[INFO][2014-12-01 03:31:29.057153]Received --> The value of KEY "test1" is test1(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:31:29.401627]Requesting to server #1--> GET test1
+INFO:root:[INFO][2014-12-01 03:31:29.413707]Received --> The value of KEY "test1" is test1(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:31:29.651896]Requesting to server #1--> GET test1
+INFO:root:[INFO][2014-12-01 03:31:29.663294]Received --> The value of KEY "test1" is test1(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:31:30.409094]Requesting to server #1--> GET test1
+INFO:root:[INFO][2014-12-01 03:31:30.422299]Received --> The value of KEY "test1" is test1(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:31:30.939007]Requesting to server #2--> GET test1
+INFO:root:[INFO][2014-12-01 03:31:30.950760]Received --> The value of KEY "test1" is test1(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:31:32.030358]Requesting to server #2--> GET test1
+INFO:root:[INFO][2014-12-01 03:31:32.044164]Received --> The value of KEY "test1" is test1(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:31:32.405079]Requesting to server #2--> GET test1
+INFO:root:[INFO][2014-12-01 03:31:32.415918]Received --> The value of KEY "test1" is test1(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:31:32.696341]Requesting to server #3--> GET test1
+INFO:root:[INFO][2014-12-01 03:31:32.706891]Received --> The value of KEY "test1" is test1(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:31:32.880542]Requesting to server #3--> GET test1
+INFO:root:[INFO][2014-12-01 03:31:32.891721]Received --> The value of KEY "test1" is test1(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:31:34.881291]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:34.892114]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:31:35.298986]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:35.310855]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:31:35.562561]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:35.574005]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:31:35.748259]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:35.759666]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:31:35.925173]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:31:35.937130]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:31:41.493824]:Client Started.
+INFO:root:[TEST][2014-12-01 03:31:41.494135]Start to pre-populating the following 5 pairs of data when Client is up
+INFO:root:[INFO][2014-12-01 03:31:41.570528]Requesting to server #1--> PUT person1 number1
+INFO:root:[INFO][2014-12-01 03:31:41.582469]Received --> Key/Value Pair {person1/number1} has been added to DB(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:31:41.661385]Requesting to server #1--> PUT person2 number2
+INFO:root:[INFO][2014-12-01 03:31:41.672664]Received --> Key/Value Pair {person2/number2} has been added to DB(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:31:41.754295]Requesting to server #3--> PUT person3 number3
+INFO:root:[ERROR][2014-12-01 03:31:41.775913]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[INFO][2014-12-01 03:31:41.858023]Requesting to server #1--> PUT person4 number4
+INFO:root:[INFO][2014-12-01 03:31:41.868747]Received --> Key/Value Pair {person4/number4} has been added to DB(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:31:41.944735]Requesting to server #3--> PUT person5 number5
+INFO:root:[ERROR][2014-12-01 03:31:41.962175]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[TEST][2014-12-01 03:31:41.969445]Get value from each pair.
+INFO:root:[INFO][2014-12-01 03:31:42.038910]Requesting to server #2--> GET person1
+INFO:root:[INFO][2014-12-01 03:31:42.049470]Received --> The value of KEY "person1" is number1(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:31:42.123287]Requesting to server #2--> GET person2
+INFO:root:[INFO][2014-12-01 03:31:42.134272]Received --> The value of KEY "person2" is number2(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:31:42.216195]Requesting to server #3--> GET person3
+INFO:root:[INFO][2014-12-01 03:31:42.226911]Received --> The KEY is not in DB. Try {QUERY} or {PUT} to add one.(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:31:42.306663]Requesting to server #1--> GET person4
+INFO:root:[INFO][2014-12-01 03:31:42.317791]Received --> The value of KEY "person4" is number4(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:31:42.395540]Requesting to server #2--> GET person5
+INFO:root:[INFO][2014-12-01 03:31:42.408070]Received --> The KEY is not in DB. Try {QUERY} or {PUT} to add one.(<-- server#2)
+INFO:root:[TEST][2014-12-01 03:31:42.414843]Clensing the pre-populated pairs of data.
+INFO:root:[INFO][2014-12-01 03:31:42.490643]Requesting to server #3--> DELETE person1
+INFO:root:[ERROR][2014-12-01 03:31:42.506234]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[INFO][2014-12-01 03:31:42.585138]Requesting to server #2--> DELETE person2
+INFO:root:[ERROR][2014-12-01 03:31:42.604843]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[INFO][2014-12-01 03:31:42.683358]Requesting to server #1--> DELETE person3
+INFO:root:[INFO][2014-12-01 03:31:42.694597]Received --> Sorry, Key/Value Pair of KEY {person3} does not exist in any DB.(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:31:42.774183]Requesting to server #3--> DELETE person4
+INFO:root:[ERROR][2014-12-01 03:31:42.789299]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[INFO][2014-12-01 03:31:42.866390]Requesting to server #3--> DELETE person5
+INFO:root:[ERROR][2014-12-01 03:31:42.882290]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[2014-12-01 03:32:07.690565]Client is gracefully shut down.
+INFO:root:[INFO][2014-12-01 03:35:21.822977]:Client Started.
+INFO:root:[TEST][2014-12-01 03:35:21.823348]Start to pre-populating the following 5 pairs of data when Client is up
+INFO:root:[INFO][2014-12-01 03:35:21.900388]Requesting to server #2--> PUT person1 number1
+INFO:root:[ERROR][2014-12-01 03:35:21.915267]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[INFO][2014-12-01 03:35:21.993313]Requesting to server #3--> PUT person2 number2
+INFO:root:[ERROR][2014-12-01 03:35:22.008318]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[INFO][2014-12-01 03:35:22.089303]Requesting to server #3--> PUT person3 number3
+INFO:root:[ERROR][2014-12-01 03:35:22.103926]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[INFO][2014-12-01 03:35:22.178318]Requesting to server #1--> PUT person4 number4
+INFO:root:[INFO][2014-12-01 03:35:22.189268]Received --> Key/Value Pair {person4/number4} has been added to DB(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:35:22.265962]Requesting to server #3--> PUT person5 number5
+INFO:root:[ERROR][2014-12-01 03:35:22.281150]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[TEST][2014-12-01 03:35:22.288604]Get value from each pair.
+INFO:root:[INFO][2014-12-01 03:35:22.356916]Requesting to server #1--> GET person1
+INFO:root:[INFO][2014-12-01 03:35:22.367961]Received --> The value of KEY "person1" is number1(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:35:22.450413]Requesting to server #2--> GET person2
+INFO:root:[INFO][2014-12-01 03:35:22.461942]Received --> The value of KEY "person2" is number2(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:35:22.538228]Requesting to server #3--> GET person3
+INFO:root:[INFO][2014-12-01 03:35:22.549480]Received --> The KEY is not in DB. Try {QUERY} or {PUT} to add one.(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:35:22.624760]Requesting to server #1--> GET person4
+INFO:root:[INFO][2014-12-01 03:35:22.638017]Received --> The value of KEY "person4" is number4(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:35:22.713641]Requesting to server #2--> GET person5
+INFO:root:[INFO][2014-12-01 03:35:22.724285]Received --> The KEY is not in DB. Try {QUERY} or {PUT} to add one.(<-- server#2)
+INFO:root:[TEST][2014-12-01 03:35:22.730718]Clensing the pre-populated pairs of data.
+INFO:root:[INFO][2014-12-01 03:35:22.799502]Requesting to server #2--> DELETE person1
+INFO:root:[ERROR][2014-12-01 03:35:22.814660]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[INFO][2014-12-01 03:35:22.890630]Requesting to server #3--> DELETE person2
+INFO:root:[ERROR][2014-12-01 03:35:22.905388]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[INFO][2014-12-01 03:35:22.980021]Requesting to server #3--> DELETE person3
+INFO:root:[ERROR][2014-12-01 03:35:22.994637]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[INFO][2014-12-01 03:35:23.068885]Requesting to server #2--> DELETE person4
+INFO:root:[ERROR][2014-12-01 03:35:23.084321]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[INFO][2014-12-01 03:35:23.162601]Requesting to server #1--> DELETE person5
+INFO:root:[INFO][2014-12-01 03:35:23.173784]Received --> Sorry, Key/Value Pair of KEY {person5} does not exist in any DB.(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:35:37.927187]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:35:37.938430]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person2': u'number2', u'person1': u'number1', u'person4': u'number4'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:35:44.417656]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 03:35:44.430280]Received --> local DB (a copy of Primary) status: {u'test1': u'test1', 'Weihan1': '2065197252', 'Weihan3': '2065197252', 'Weihan2': '2065197252', 'Jaylene2': '2533550659', 'Jaylene3': '2533550659', 'Jaylene1': '2533550659', u'person2': u'number2', u'person1': u'number1', u'person4': u'number4'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:35:49.918807]Requesting to server #2--> PUT test2 test2
+INFO:root:[ERROR][2014-12-01 03:35:49.935712]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[INFO][2014-12-01 03:37:26.414415]Requesting to server #2--> DELETE test2
+INFO:root:[ERROR][2014-12-01 03:37:26.430302]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[INFO][2014-12-01 03:37:28.067203]Requesting to server #3--> DELETE test2
+INFO:root:[INFO][2014-12-01 03:37:28.077822]Received --> Sorry, Key/Value Pair of KEY {test2} does not exist in any DB.(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:40:09.883321]Requesting to server #2--> PUT test3 test3
+INFO:root:[INFO][2014-12-01 03:40:09.896230]Received --> Key/Value Pair {test3/test3} has been added to DB(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:40:13.067393]Requesting to server #3--> PUT test3 test3
+INFO:root:[ERROR][2014-12-01 03:40:13.091077]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[INFO][2014-12-01 03:40:16.192722]Requesting to server #3--> PUT test3 test3
+INFO:root:[ERROR][2014-12-01 03:40:16.208036]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[INFO][2014-12-01 03:40:16.916771]Requesting to server #1--> PUT test3 test3
+INFO:root:[ERROR][2014-12-01 03:40:16.938437]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'NoneType' object has no attribute 'group'
+
+INFO:root:[INFO][2014-12-01 03:47:52.551766]Requesting to server #1--> PUT test3 test3
+INFO:root:[INFO][2014-12-01 03:47:52.576819]Received --> Key/Value Pair {test3/test3} has been added to DB(<-- server#2)(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:47:53.946581]Requesting to server #3--> PUT test3 test3
+INFO:root:[INFO][2014-12-01 03:47:53.968702]Received --> Key/Value Pair {test3/test3} has been added to DB(<-- server#2)(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:47:54.404281]Requesting to server #3--> PUT test3 test3
+INFO:root:[INFO][2014-12-01 03:47:54.420519]Received --> Key/Value Pair {test3/test3} has been added to DB(<-- server#2)(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:47:54.957544]Requesting to server #2--> PUT test3 test3
+INFO:root:[INFO][2014-12-01 03:47:54.968572]Received --> Key/Value Pair {test3/test3} has been added to DB(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:47:55.368197]Requesting to server #1--> PUT test3 test3
+INFO:root:[INFO][2014-12-01 03:47:55.385324]Received --> Key/Value Pair {test3/test3} has been added to DB(<-- server#2)(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:47:58.409348]Requesting to server #1--> PUT test3 test3
+INFO:root:[INFO][2014-12-01 03:47:58.425620]Received --> Key/Value Pair {test3/test3} has been added to DB(<-- server#2)(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:47:58.939678]Requesting to server #2--> PUT test3 test3
+INFO:root:[INFO][2014-12-01 03:47:58.950556]Received --> Key/Value Pair {test3/test3} has been added to DB(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:48:00.040155]Requesting to server #3--> PUT test3 test3
+INFO:root:[INFO][2014-12-01 03:48:00.058046]Received --> Key/Value Pair {test3/test3} has been added to DB(<-- server#2)(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:48:00.825819]Requesting to server #3--> PUT test3 test3
+INFO:root:[INFO][2014-12-01 03:48:00.841123]Received --> Key/Value Pair {test3/test3} has been added to DB(<-- server#2)(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:48:01.835300]Requesting to server #3--> PUT test3 test3
+INFO:root:[INFO][2014-12-01 03:48:01.853955]Received --> Key/Value Pair {test3/test3} has been added to DB(<-- server#2)(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:48:02.444779]Requesting to server #3--> PUT test3 test3
+INFO:root:[INFO][2014-12-01 03:48:02.462631]Received --> Key/Value Pair {test3/test3} has been added to DB(<-- server#2)(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:48:02.937154]Requesting to server #1--> PUT test3 test3
+INFO:root:[INFO][2014-12-01 03:48:02.955599]Received --> Key/Value Pair {test3/test3} has been added to DB(<-- server#2)(<-- server#1)
+INFO:root:[2014-12-01 03:48:11.750180]Client is gracefully shut down.
+INFO:root:[INFO][2014-12-01 03:48:16.967397]:Client Started.
+INFO:root:[TEST][2014-12-01 03:48:16.967701]Start to pre-populating the following 5 pairs of data when Client is up
+INFO:root:[INFO][2014-12-01 03:48:17.045589]Requesting to server #2--> PUT person1 number1
+INFO:root:[INFO][2014-12-01 03:48:17.057523]Received --> Key/Value Pair {person1/number1} has been added to DB(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:48:17.142230]Requesting to server #3--> PUT person2 number2
+INFO:root:[INFO][2014-12-01 03:48:17.162321]Received --> Key/Value Pair {person2/number2} has been added to DB(<-- server#2)(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:48:17.247932]Requesting to server #1--> PUT person3 number3
+INFO:root:[INFO][2014-12-01 03:48:17.265124]Received --> Key/Value Pair {person3/number3} has been added to DB(<-- server#2)(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:48:17.349272]Requesting to server #1--> PUT person4 number4
+INFO:root:[INFO][2014-12-01 03:48:17.366819]Received --> Key/Value Pair {person4/number4} has been added to DB(<-- server#2)(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:48:17.453659]Requesting to server #2--> PUT person5 number5
+INFO:root:[INFO][2014-12-01 03:48:17.465510]Received --> Key/Value Pair {person5/number5} has been added to DB(<-- server#2)
+INFO:root:[TEST][2014-12-01 03:48:17.473013]Get value from each pair.
+INFO:root:[INFO][2014-12-01 03:48:17.550556]Requesting to server #3--> GET person1
+INFO:root:[INFO][2014-12-01 03:48:17.562549]Received --> The value of KEY "person1" is number1(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:48:17.644309]Requesting to server #2--> GET person2
+INFO:root:[INFO][2014-12-01 03:48:17.657043]Received --> The value of KEY "person2" is number2(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:48:17.739610]Requesting to server #2--> GET person3
+INFO:root:[INFO][2014-12-01 03:48:17.751645]Received --> The value of KEY "person3" is number3(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:48:17.831926]Requesting to server #1--> GET person4
+INFO:root:[INFO][2014-12-01 03:48:17.843622]Received --> The value of KEY "person4" is number4(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:48:17.927139]Requesting to server #2--> GET person5
+INFO:root:[INFO][2014-12-01 03:48:17.939473]Received --> The value of KEY "person5" is number5(<-- server#2)
+INFO:root:[TEST][2014-12-01 03:48:17.946889]Clensing the pre-populated pairs of data.
+INFO:root:[INFO][2014-12-01 03:48:18.020844]Requesting to server #3--> DELETE person1
+INFO:root:[ERROR][2014-12-01 03:48:18.038780]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'RPC_Server' object has no attribute 'self_check'
+
+INFO:root:[INFO][2014-12-01 03:48:18.121843]Requesting to server #3--> DELETE person2
+INFO:root:[ERROR][2014-12-01 03:48:18.139291]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'RPC_Server' object has no attribute 'self_check'
+
+INFO:root:[INFO][2014-12-01 03:48:18.219015]Requesting to server #2--> DELETE person3
+INFO:root:[ERROR][2014-12-01 03:48:18.230165]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'RPC_Server' object has no attribute 'self_check'
+
+INFO:root:[INFO][2014-12-01 03:48:18.310315]Requesting to server #3--> DELETE person4
+INFO:root:[ERROR][2014-12-01 03:48:18.328807]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'RPC_Server' object has no attribute 'self_check'
+
+INFO:root:[INFO][2014-12-01 03:48:18.414690]Requesting to server #1--> DELETE person5
+INFO:root:[ERROR][2014-12-01 03:48:18.431808]Error Connecting the server -- <type 'exceptions.AttributeError'> Check Server Please!
+INFO:root:[ERROR][DETAIL]Traceback (most recent call last):
+  File "client_rpc.py", line 32, in <module>
+    received = RPC_Server.get_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 169, in __call__
+    return self.__send(self.__name, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Pyro4/core.py", line 388, in _pyroInvoke
+    raise data
+AttributeError: 'RPC_Server' object has no attribute 'self_check'
+
+INFO:root:[2014-12-01 03:48:23.835411]Client is gracefully shut down.
+INFO:root:[INFO][2014-12-01 03:50:55.896437]:Client Started.
+INFO:root:[TEST][2014-12-01 03:50:55.896862]Start to pre-populating the following 5 pairs of data when Client is up
+INFO:root:[INFO][2014-12-01 03:50:55.972046]Requesting to server #1--> PUT person1 number1
+INFO:root:[INFO][2014-12-01 03:50:55.984267]Received --> Key/Value Pair {person1/number1} has been added to DB(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:50:56.067549]Requesting to server #1--> PUT person2 number2
+INFO:root:[INFO][2014-12-01 03:50:56.079688]Received --> Key/Value Pair {person2/number2} has been added to DB(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:50:56.158314]Requesting to server #1--> PUT person3 number3
+INFO:root:[INFO][2014-12-01 03:50:56.169678]Received --> Key/Value Pair {person3/number3} has been added to DB(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:50:56.250588]Requesting to server #3--> PUT person4 number4
+INFO:root:[INFO][2014-12-01 03:50:56.272977]Received --> Key/Value Pair {person4/number4} has been added to DB(<-- server#1)(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:50:56.350870]Requesting to server #1--> PUT person5 number5
+INFO:root:[INFO][2014-12-01 03:50:56.361962]Received --> Key/Value Pair {person5/number5} has been added to DB(<-- server#1)
+INFO:root:[TEST][2014-12-01 03:50:56.368580]Get value from each pair.
+INFO:root:[INFO][2014-12-01 03:50:56.439469]Requesting to server #1--> GET person1
+INFO:root:[INFO][2014-12-01 03:50:56.450789]Received --> The value of KEY "person1" is number1(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:50:56.530035]Requesting to server #1--> GET person2
+INFO:root:[INFO][2014-12-01 03:50:56.541797]Received --> The value of KEY "person2" is number2(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:50:56.616535]Requesting to server #1--> GET person3
+INFO:root:[INFO][2014-12-01 03:50:56.627858]Received --> The value of KEY "person3" is number3(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:50:56.704181]Requesting to server #3--> GET person4
+INFO:root:[INFO][2014-12-01 03:50:56.715234]Received --> The value of KEY "person4" is number4(<-- server#3)
+INFO:root:[INFO][2014-12-01 03:50:56.794447]Requesting to server #1--> GET person5
+INFO:root:[INFO][2014-12-01 03:50:56.806305]Received --> The value of KEY "person5" is number5(<-- server#1)
+INFO:root:[TEST][2014-12-01 03:50:56.813091]Clensing the pre-populated pairs of data.
+INFO:root:[INFO][2014-12-01 03:50:56.883212]Requesting to server #2--> DELETE person1
+INFO:root:[INFO][2014-12-01 03:50:56.905329]Received --> Key/Value Pair of KEY {person1} has been purged from DB(<-- server#1)(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:50:56.983923]Requesting to server #1--> DELETE person2
+INFO:root:[INFO][2014-12-01 03:50:56.994993]Received --> Key/Value Pair of KEY {person2} has been purged from DB(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:50:57.071039]Requesting to server #1--> DELETE person3
+INFO:root:[INFO][2014-12-01 03:50:57.082897]Received --> Key/Value Pair of KEY {person3} has been purged from DB(<-- server#1)
+INFO:root:[INFO][2014-12-01 03:50:57.161075]Requesting to server #2--> DELETE person4
+INFO:root:[INFO][2014-12-01 03:50:57.176894]Received --> Key/Value Pair of KEY {person4} has been purged from DB(<-- server#1)(<-- server#2)
+INFO:root:[INFO][2014-12-01 03:50:57.251454]Requesting to server #2--> DELETE person5
+INFO:root:[INFO][2014-12-01 03:50:57.268842]Received --> Key/Value Pair of KEY {person5} has been purged from DB(<-- server#1)(<-- server#2)
+INFO:root:[2014-12-01 03:51:12.556557]Client is gracefully shut down.
+INFO:root:[INFO][2014-12-01 04:09:29.244262]:Client Started.
+INFO:root:[TEST][2014-12-01 04:09:29.244707]Start to pre-populating the following 5 pairs of data when Client is up
+INFO:root:[INFO][2014-12-01 04:09:29.342150]Requesting to server #3--> PUT person1 number1
+INFO:root:[INFO][2014-12-01 04:09:29.368974]Received --> Key/Value Pair {person1/number1} has been added to DB(<-- server#4)(<-- server#3)
+INFO:root:[INFO][2014-12-01 04:09:29.452529]Requesting to server #4--> PUT person2 number2
+INFO:root:[INFO][2014-12-01 04:09:29.464313]Received --> Key/Value Pair {person2/number2} has been added to DB(<-- server#4)
+INFO:root:[INFO][2014-12-01 04:09:29.543775]Requesting to server #1--> PUT person3 number3
+INFO:root:[INFO][2014-12-01 04:09:29.566439]Received --> Key/Value Pair {person3/number3} has been added to DB(<-- server#4)(<-- server#1)
+INFO:root:[INFO][2014-12-01 04:09:29.647134]Requesting to server #2--> PUT person4 number4
+INFO:root:[INFO][2014-12-01 04:09:29.670679]Received --> Key/Value Pair {person4/number4} has been added to DB(<-- server#4)(<-- server#2)
+INFO:root:[INFO][2014-12-01 04:09:29.752653]Requesting to server #1--> PUT person5 number5
+INFO:root:[INFO][2014-12-01 04:09:29.769740]Received --> Key/Value Pair {person5/number5} has been added to DB(<-- server#4)(<-- server#1)
+INFO:root:[TEST][2014-12-01 04:09:29.777229]Get value from each pair.
+INFO:root:[INFO][2014-12-01 04:09:29.850102]Requesting to server #4--> GET person1
+INFO:root:[INFO][2014-12-01 04:09:29.862142]Received --> The value of KEY "person1" is number1(<-- server#4)
+INFO:root:[INFO][2014-12-01 04:09:29.943274]Requesting to server #5--> GET person2
+INFO:root:[INFO][2014-12-01 04:09:29.956288]Received --> The value of KEY "person2" is number2(<-- server#5)
+INFO:root:[INFO][2014-12-01 04:09:30.034836]Requesting to server #4--> GET person3
+INFO:root:[INFO][2014-12-01 04:09:30.046736]Received --> The value of KEY "person3" is number3(<-- server#4)
+INFO:root:[INFO][2014-12-01 04:09:30.125990]Requesting to server #1--> GET person4
+INFO:root:[INFO][2014-12-01 04:09:30.139880]Received --> The value of KEY "person4" is number4(<-- server#1)
+INFO:root:[INFO][2014-12-01 04:09:30.217461]Requesting to server #5--> GET person5
+INFO:root:[INFO][2014-12-01 04:09:30.228214]Received --> The value of KEY "person5" is number5(<-- server#5)
+INFO:root:[TEST][2014-12-01 04:09:30.234862]Clensing the pre-populated pairs of data.
+INFO:root:[INFO][2014-12-01 04:09:30.305148]Requesting to server #2--> DELETE person1
+INFO:root:[INFO][2014-12-01 04:09:30.320877]Received --> Key/Value Pair of KEY {person1} has been purged from DB(<-- server#4)(<-- server#2)
+INFO:root:[INFO][2014-12-01 04:09:30.401657]Requesting to server #4--> DELETE person2
+INFO:root:[INFO][2014-12-01 04:09:30.412500]Received --> Key/Value Pair of KEY {person2} has been purged from DB(<-- server#4)
+INFO:root:[INFO][2014-12-01 04:09:30.487201]Requesting to server #3--> DELETE person3
+INFO:root:[INFO][2014-12-01 04:09:30.502888]Received --> Key/Value Pair of KEY {person3} has been purged from DB(<-- server#4)(<-- server#3)
+INFO:root:[INFO][2014-12-01 04:09:30.577028]Requesting to server #3--> DELETE person4
+INFO:root:[INFO][2014-12-01 04:09:30.592176]Received --> Key/Value Pair of KEY {person4} has been purged from DB(<-- server#4)(<-- server#3)
+INFO:root:[INFO][2014-12-01 04:09:30.668522]Requesting to server #3--> DELETE person5
+INFO:root:[INFO][2014-12-01 04:09:30.685998]Received --> Key/Value Pair of KEY {person5} has been purged from DB(<-- server#4)(<-- server#3)
+INFO:root:[INFO][2014-12-01 04:09:40.134914]Requesting to server #4--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:09:40.146188]Received --> local DB (a copy of Primary) status: {'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#4)
+INFO:root:[INFO][2014-12-01 04:09:44.060806]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:09:44.074274]Received --> local DB (a copy of Primary) status: {'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 04:09:44.880080]Requesting to server #5--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:09:44.892182]Received --> local DB (a copy of Primary) status: {'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#5)
+INFO:root:[INFO][2014-12-01 04:09:45.456094]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:09:45.467621]Received --> local DB (a copy of Primary) status: {'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 04:09:45.983717]Requesting to server #5--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:09:45.994277]Received --> local DB (a copy of Primary) status: {'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#5)
+INFO:root:[INFO][2014-12-01 04:09:46.703245]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:09:46.714461]Received --> local DB (a copy of Primary) status: {'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 04:09:47.373021]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:09:47.383978]Received --> local DB (a copy of Primary) status: {'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 04:09:48.612282]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:09:48.624529]Received --> local DB (a copy of Primary) status: {'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 04:09:49.340315]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:09:49.352485]Received --> local DB (a copy of Primary) status: {'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 04:09:52.925421]Requesting to server #5--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:09:52.936119]Received --> local DB (a copy of Primary) status: {'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#5)
+INFO:root:[INFO][2014-12-01 04:10:04.499551]Requesting to server #3--> PUT Test1 Test1
+INFO:root:[INFO][2014-12-01 04:10:04.517886]Received --> Key/Value Pair {Test1/Test1} has been added to DB(<-- server#4)(<-- server#3)
+INFO:root:[INFO][2014-12-01 04:10:09.698780]Requesting to server #5--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:09.711023]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#5)
+INFO:root:[INFO][2014-12-01 04:10:11.498046]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:11.509986]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 04:10:12.750754]Requesting to server #5--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:12.778269]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#5)
+INFO:root:[INFO][2014-12-01 04:10:15.211082]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:15.222508]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 04:10:16.769153]Requesting to server #4--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:16.780543]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#4)
+INFO:root:[INFO][2014-12-01 04:10:17.453344]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:17.464886]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 04:10:18.101485]Requesting to server #5--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:18.111958]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#5)
+INFO:root:[INFO][2014-12-01 04:10:18.736020]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:18.747631]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 04:10:19.298956]Requesting to server #5--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:19.310352]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#5)
+INFO:root:[INFO][2014-12-01 04:10:19.879798]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:19.891693]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 04:10:20.491858]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:20.503189]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 04:10:21.093365]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:21.103781]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', 'Jaylene4': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 04:10:27.780204]Requesting to server #3--> PUT Test2 Test2
+INFO:root:[INFO][2014-12-01 04:10:27.797603]Received --> Key/Value Pair {Test2/Test2} has been added to DB(<-- server#4)(<-- server#3)
+INFO:root:[INFO][2014-12-01 04:10:31.555006]Requesting to server #5--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:31.566205]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}(<-- server#5)
+INFO:root:[INFO][2014-12-01 04:10:32.379114]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:32.390503]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 04:10:33.386966]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:33.397929]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 04:10:33.918628]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:33.929617]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 04:10:34.415775]Requesting to server #4--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:34.427878]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}(<-- server#4)
+INFO:root:[INFO][2014-12-01 04:10:35.018072]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:35.029765]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 04:10:35.684142]Requesting to server #5--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:35.695410]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}(<-- server#5)
+INFO:root:[INFO][2014-12-01 04:10:36.941452]Requesting to server #4--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:36.952970]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}(<-- server#4)
+INFO:root:[INFO][2014-12-01 04:10:37.479646]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:37.491098]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}(<-- server#3)
+INFO:root:[INFO][2014-12-01 04:10:37.958014]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:37.969344]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 04:10:38.455109]Requesting to server #5--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:38.466996]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}(<-- server#5)
+INFO:root:[INFO][2014-12-01 04:10:38.894226]Requesting to server #5--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:38.904835]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}(<-- server#5)
+INFO:root:[INFO][2014-12-01 04:10:39.327929]Requesting to server #2--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:39.339304]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}(<-- server#2)
+INFO:root:[INFO][2014-12-01 04:10:39.775266]Requesting to server #1--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:39.786844]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}(<-- server#1)
+INFO:root:[INFO][2014-12-01 04:10:40.216059]Requesting to server #5--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:40.227501]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}(<-- server#5)
+INFO:root:[INFO][2014-12-01 04:10:40.623602]Requesting to server #3--> QUERY locally
+INFO:root:[INFO][2014-12-01 04:10:40.635593]Received --> local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}(<-- server#3)

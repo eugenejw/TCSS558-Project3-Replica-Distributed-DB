@@ -1,0 +1,1434 @@
+INFO:root:[INFO][2014-11-26 20:43:59.614666]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-26 20:43:59.615205]mapping table updated -- new key '['Weihan5', 'Jaylene5']' added to mapping table from server#5
+INFO:root:[info][2014-11-26 20:43:59.615495]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-26 20:43:59.615659]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-26 20:43:59.650131]:Server #5 Started.
+INFO:root:[INFO][2014-11-26 20:45:01.527429]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-26 20:45:01.527796]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-26 20:45:01.528149]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-26 20:45:01.528301]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-26 20:45:01.563614]:Server #5 Started.
+INFO:root:[INFO][2014-11-26 20:46:31.671978]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-26 20:46:31.672372]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-26 20:46:31.672707]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-26 20:46:31.672890]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-26 20:46:31.707072]:Server #5 Started.
+INFO:root:[INFO][2014-11-26 20:53:10.837035]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-26 20:53:10.837458]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-26 20:53:10.837824]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-26 20:53:10.837985]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-26 20:53:10.873534]:Server #5 Started.
+INFO:root:[INFO][2014-11-26 20:57:10.808210]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 20:57:10.808348]Request coming from Client:
+INFO:root:[INFO][2014-11-26 21:00:41.116982]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 21:00:41.117139]Request coming from Client:
+INFO:root:[INFO][2014-11-26 21:08:10.867554]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-26 21:08:10.867910]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-26 21:08:10.868237]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-26 21:08:10.868417]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-26 21:08:10.906891]:Server #5 Started.
+INFO:root:[INFO][2014-11-26 21:08:58.002128]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 21:08:58.002318]Request coming from Client:
+INFO:root:[INFO][2014-11-26 21:10:18.695199]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-26 21:10:18.695626]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-26 21:10:18.695997]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-26 21:10:18.696208]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-26 21:10:18.730153]:Server #5 Started.
+INFO:root:[INFO][2014-11-26 21:10:29.320197]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 21:10:29.320329]Request coming from Client:
+INFO:root:[INFO][2014-11-26 21:10:29.320913]Server responding -->  DB status: {'Weihan5': '2065197252', 'Jaylene5': '2533550659'}
+INFO:root:[INFO][2014-11-26 21:10:29.320999]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 22:02:02.422436]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-26 22:02:02.422933]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-26 22:02:02.423363]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-26 22:02:02.423648]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-26 22:02:02.460130]:Server #5 Started.
+INFO:root:[INFO][2014-11-26 22:03:37.055471]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-26 22:03:37.055839]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-26 22:03:37.056226]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-26 22:03:37.056387]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-26 22:03:37.089965]:Server #5 Started.
+INFO:root:[INFO][2014-11-26 22:08:13.981464]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-26 22:08:13.981856]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-26 22:08:13.982203]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-26 22:08:13.982372]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-26 22:08:14.016562]:Server #5 Started.
+INFO:root:[INFO][2014-11-26 22:10:15.365358]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 22:10:15.365517]Request coming from Client:
+INFO:root:[INFO][2014-11-26 22:11:16.020158]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 22:11:16.020325]Request coming from Client:
+INFO:root:[INFO][2014-11-26 22:12:21.367476]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-26 22:12:21.367954]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-26 22:12:21.368298]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-26 22:12:21.368522]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-26 22:12:21.403087]:Server #5 Started.
+INFO:root:[INFO][2014-11-26 22:12:40.043607]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 22:12:40.043755]Request coming from Client:
+INFO:root:[INFO][2014-11-26 22:12:40.044589]Server responding -->  The value of KEY "Weihan5" is 2065197252
+INFO:root:[INFO][2014-11-26 22:12:40.045016]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 22:24:29.446558]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-26 22:24:29.447107]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-26 22:24:29.447442]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-26 22:24:29.447610]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-26 22:24:29.483026]:Server #5 Started.
+INFO:root:[INFO][2014-11-26 22:27:48.138430]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-26 22:27:48.138995]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-26 22:27:48.139335]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-26 22:27:48.139496]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-26 22:27:48.173395]:Server #5 Started.
+INFO:root:[INFO][2014-11-26 22:30:16.566921]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-26 22:30:16.567331]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-26 22:30:16.567711]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-26 22:30:16.567892]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-26 22:30:16.603482]:Server #5 Started.
+INFO:root:[INFO][2014-11-26 22:31:02.859997]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 22:31:02.860136]Request coming from Client:
+INFO:root:[INFO][2014-11-26 22:31:02.860846]Server responding -->  The value of KEY "Weihan5" is 2065197252
+INFO:root:[INFO][2014-11-26 22:31:02.861258]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 22:44:48.862950]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-26 22:44:48.863374]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-26 22:44:48.863725]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-26 22:44:48.863896]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-26 22:44:48.899480]:Server #5 Started.
+INFO:root:[INFO][2014-11-26 22:45:05.035668]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 22:45:05.035904]Request coming from Client:
+INFO:root:[INFO][2014-11-26 22:45:05.037428]Server responding -->  The value of KEY "Weihan5" is 2065197252
+INFO:root:[INFO][2014-11-26 22:45:05.038166]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:35:16.355860]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-26 23:35:16.356275]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-26 23:35:16.356600]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-26 23:35:16.356788]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-26 23:35:16.396208]:Server #5 Started.
+INFO:root:[INFO][2014-11-26 23:36:03.476075]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:36:03.476230]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:36:03.476744]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-26 23:36:03.476836]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:36:03.561771]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:36:03.561907]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:36:03.562019]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-26 23:36:03.562099]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:36:04.133427]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:36:04.133578]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:36:04.133692]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-26 23:36:04.133771]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:42:10.088657]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:42:10.088809]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:42:10.088952]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-26 23:42:10.089034]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:42:10.447848]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:42:10.447997]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:42:10.448111]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-26 23:42:10.448191]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:42:27.666339]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-26 23:42:27.666712]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-26 23:42:27.667042]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-26 23:42:27.667228]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-26 23:42:27.702778]:Server #5 Started.
+INFO:root:[INFO][2014-11-26 23:42:36.381860]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:42:36.382031]Request coming from Client:
+INFO:root:[info][2014-11-26 23:42:36.383223]mapping table updated -- new key '[u'person2']' added to mapping table from server#5
+INFO:root:[info][2014-11-26 23:42:36.383903]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-26 23:42:36.384141]Server responding -->  Key/Value Pair {person2/number2} has been added to DB
+INFO:root:[INFO][2014-11-26 23:42:36.384579]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:42:36.906071]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:42:36.906239]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:42:36.906515]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-26 23:42:36.906620]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:44:55.671140]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:44:55.671277]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:44:55.671398]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-26 23:44:55.671478]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:44:58.783473]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:44:58.783622]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:44:58.795158]Server responding -->  The value of KEY "Weihan1" is 2065197252
+INFO:root:[INFO][2014-11-26 23:44:58.795451]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:45:07.654669]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:45:07.654805]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:45:07.654948]Server responding -->  The value of KEY "Weihan5" is 2065197252
+INFO:root:[INFO][2014-11-26 23:45:07.655041]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:45:10.699877]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:45:10.700057]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:45:10.700207]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-26 23:45:10.700313]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:45:48.684887]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:45:48.685042]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:45:48.685157]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-26 23:45:48.685235]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:49:11.771299]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:49:11.771435]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:49:11.771641]Server responding -->  DB status: {'Weihan5': '2065197252', u'person2': u'number2', 'Jaylene5': '2533550659'}
+INFO:root:[INFO][2014-11-26 23:49:11.771722]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:49:28.123768]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:49:28.123925]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:49:28.124122]Server responding -->  DB status: {'Weihan5': '2065197252', u'person2': u'number2', 'Jaylene5': '2533550659'}
+INFO:root:[INFO][2014-11-26 23:49:28.124206]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:49:35.207880]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:49:35.208019]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:49:35.208157]Server responding -->  DB status: {'Weihan5': '2065197252', u'person2': u'number2', 'Jaylene5': '2533550659'}
+INFO:root:[INFO][2014-11-26 23:49:35.208238]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:49:42.812257]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:49:42.812394]Request coming from Client:
+INFO:root:[WARNING][2014-11-26 23:49:42.812991]: mapping table contains key -- '[u'person2']' that does not exist on local DB server#5. Deleted it.
+INFO:root:[info][2014-11-26 23:49:42.813242]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-26 23:49:42.813553]Server responding -->  Key/Value Pair of KEY {person2} has been purged from DB
+INFO:root:[INFO][2014-11-26 23:49:42.813779]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:50:12.891060]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:50:12.891200]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:50:12.891328]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-26 23:50:12.891409]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:50:24.357784]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:50:24.357922]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:50:24.358059]Server responding -->  DB status: {'Weihan5': '2065197252', 'Jaylene5': '2533550659'}
+INFO:root:[INFO][2014-11-26 23:50:24.358145]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:10:31.467638]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-27 00:10:31.468085]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-27 00:10:31.468424]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-27 00:10:31.468637]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-27 00:10:31.502706]:Server #5 Started.
+INFO:root:[INFO][2014-11-27 00:10:39.461353]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:10:39.461512]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:10:39.462050]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:10:39.462145]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:10:39.719155]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:10:39.719317]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:10:39.719442]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:10:39.719520]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:10:39.803997]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:10:39.804133]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:10:39.804251]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:10:39.804331]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:10:40.139081]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:10:40.139217]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:10:40.139359]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:10:40.139442]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:11:25.968206]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:11:25.968360]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:11:25.968709]Server responding -->  local DB status: {'Weihan5': '2065197252', 'Jaylene5': '2533550659'}
+INFO:root:[INFO][2014-11-27 00:11:25.968795]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:11:28.843930]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:11:28.844087]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:11:28.844223]Server responding -->  local DB status: {'Weihan5': '2065197252', 'Jaylene5': '2533550659'}
+INFO:root:[INFO][2014-11-27 00:11:28.844302]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:12:13.188030]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:12:13.188175]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:12:13.188292]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:12:13.188374]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:12:13.750675]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:12:13.750813]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:12:13.750945]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:12:13.751027]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:12:15.476289]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:12:15.476440]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:12:15.476551]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:12:15.476628]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:12:16.085461]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:12:16.085595]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:12:16.085704]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:12:16.085782]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:12:18.712248]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:12:18.712385]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:12:18.712500]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:12:18.712580]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:12:20.013143]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:12:20.013286]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:12:20.013400]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:12:20.013478]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:12:21.241341]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:12:21.241484]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:12:21.241601]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:12:21.241678]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:12:58.779766]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:12:58.779904]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:12:58.780015]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:12:58.780095]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:13:03.767966]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:13:03.768102]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:13:03.768216]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:13:03.768297]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:13:32.385885]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:13:32.386052]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:13:32.386176]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:13:32.386258]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:13:36.036409]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:13:36.036613]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:13:36.036777]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:13:36.036905]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:13:36.593048]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:13:36.593218]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:13:36.593334]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:13:36.593414]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:22:25.264057]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-27 00:22:25.264513]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-27 00:22:25.264972]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-27 00:22:25.265162]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-27 00:22:25.299547]:Server #5 Started.
+INFO:root:[INFO][2014-11-27 00:22:37.274793]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:22:37.274935]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:22:37.275022]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:22:37.275117]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:22:37.275191]Syncing-Up Done...
+INFO:root:[info][2014-11-27 00:22:37.276668]mapping table updated -- new key '[u'person4']' added to mapping table from server#5
+INFO:root:[info][2014-11-27 00:22:37.277419]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-27 00:22:37.277632]Server responding -->  Key/Value Pair {person4/number4} has been added to DB
+INFO:root:[INFO][2014-11-27 00:22:37.278079]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:22:37.922946]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:22:37.923092]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:22:37.923171]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:22:37.923261]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:22:37.923337]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:22:37.936263]Server responding -->  Key/Value Pair of KEY {person1} has been purged from DB(by server#1)
+INFO:root:[INFO][2014-11-27 00:22:37.936606]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:22:38.030402]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:22:38.030543]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:22:38.030621]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:22:38.030711]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:22:38.030786]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:22:38.036772]Server responding -->  Key/Value Pair of KEY {person2} has been purged from DB(by server#4)
+INFO:root:[INFO][2014-11-27 00:22:38.037077]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:23:15.949270]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:23:15.949427]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:23:15.949505]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:23:15.949595]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:23:15.949670]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:23:15.954736]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command(by server#4)
+INFO:root:[INFO][2014-11-27 00:23:15.955142]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:23:17.306216]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:23:17.306410]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:23:17.306514]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:23:17.306635]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:23:17.306735]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:23:17.312187]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command(by server#4)
+INFO:root:[INFO][2014-11-27 00:23:17.312443]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:23:25.222642]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:23:25.222827]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:23:25.222936]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:23:25.223030]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:23:25.223119]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:23:25.230059]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command(by server#4)
+INFO:root:[INFO][2014-11-27 00:23:25.230327]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:23:28.429177]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:23:28.429395]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:23:28.429516]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:23:28.429623]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:23:28.429697]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:23:28.434579]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command(by server#4)
+INFO:root:[INFO][2014-11-27 00:23:28.434844]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:23:29.462161]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:23:29.462313]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:23:29.462390]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:23:29.462509]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:23:29.462647]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:23:29.467830]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command(by server#4)
+INFO:root:[INFO][2014-11-27 00:23:29.468081]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:23:30.391819]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:23:30.391972]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:23:30.392050]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:23:30.392160]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:23:30.392236]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:23:30.397225]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command(by server#4)
+INFO:root:[INFO][2014-11-27 00:23:30.397486]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:23:31.123417]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:23:31.123569]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:23:31.123651]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:23:31.123742]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:23:31.123857]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:23:31.128869]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command(by server#4)
+INFO:root:[INFO][2014-11-27 00:23:31.129125]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:28:25.551421]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:28:25.551593]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:28:25.551678]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:28:25.551770]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:28:25.551845]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:28:25.556658]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command(by server#4)
+INFO:root:[INFO][2014-11-27 00:28:25.556906]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:35:34.288795]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-27 00:35:34.289431]mapping table updated -- new key '[u'person4']' added to mapping table from server#5
+INFO:root:[info][2014-11-27 00:35:34.289782]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-27 00:35:34.289988]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-27 00:35:34.325708]:Server #5 Started.
+INFO:root:[INFO][2014-11-27 00:35:38.558751]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:35:38.558888]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:35:38.558974]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:35:38.559070]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:35:38.559189]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:35:38.559719]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:35:38.559810]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:35:46.661628]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:35:46.661780]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:35:46.661856]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:35:46.661945]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:35:46.662035]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:35:46.662141]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:35:46.662216]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:35:50.013778]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:35:50.013920]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:35:50.013999]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:35:50.014088]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:35:50.014179]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:35:50.014286]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:35:50.014362]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:35:56.240060]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:35:56.240194]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:35:56.240272]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:35:56.240361]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:35:56.240453]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:35:56.240560]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:35:56.240636]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:35:58.712046]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:35:58.712181]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:35:58.712258]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:35:58.712347]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:35:58.712439]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:35:58.712572]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:35:58.712649]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:35:59.914545]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:35:59.914687]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:35:59.914767]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:35:59.914858]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:35:59.914950]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:35:59.915076]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:35:59.915155]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:00.503861]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:00.504024]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:00.504112]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:00.504279]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:00.504389]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:00.504503]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:36:00.504581]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:03.342285]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:03.342421]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:03.342520]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:03.342613]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:03.342708]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:03.342821]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:36:03.342902]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:03.884955]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:03.885109]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:03.885187]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:03.885276]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:03.885367]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:03.885473]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:36:03.885551]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:05.445744]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:05.445904]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:05.445984]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:05.446076]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:05.446171]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:05.446300]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:36:05.446380]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:17.946040]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:17.946197]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:17.946276]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:17.946394]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:17.946492]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:17.946602]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:36:17.946676]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:18.328421]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:18.328576]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:18.328653]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:18.328743]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:18.328835]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:18.328978]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:36:18.329115]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:19.428155]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:19.428295]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:19.428372]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:19.428459]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:19.428548]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:19.428652]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:36:19.428726]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:39.006287]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:39.006423]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:39.006501]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:39.006592]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:39.006691]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:39.007076]Server responding -->  The value of KEY "person4" is number4
+INFO:root:[INFO][2014-11-27 00:36:39.007465]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:39.288236]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:39.288383]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:39.288461]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:39.288551]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:39.288644]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:39.288760]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:36:39.288839]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:39.468531]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:39.468680]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:39.468759]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:39.468848]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:39.468939]Syncing-Up Done...
+INFO:root:[WARNING][2014-11-27 00:36:39.469528]: mapping table contains key -- '[u'person4']' that does not exist on local DB server#5. Deleted it.
+INFO:root:[info][2014-11-27 00:36:39.469763]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-27 00:36:39.469858]Server responding -->  Key/Value Pair of KEY {person4} has been purged from DB
+INFO:root:[INFO][2014-11-27 00:36:39.469944]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:41:26.549581]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:41:26.549718]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:41:26.549796]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:41:26.549886]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:41:26.549983]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:41:26.550090]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:41:26.550166]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:41:28.835872]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:41:28.836041]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:41:28.836121]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:41:28.836210]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:41:28.836337]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:41:28.836464]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:41:28.836577]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:41:29.389380]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:41:29.389523]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:41:29.389601]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:41:29.389690]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:41:29.389781]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:41:29.389886]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:41:29.389963]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:41:48.060031]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:41:48.060205]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:41:48.060320]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:41:48.060446]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:41:48.060579]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:41:48.060729]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:41:48.060806]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:41:50.191890]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:41:50.192028]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:41:50.192105]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:41:50.192195]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:41:50.192284]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:41:50.192421]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:41:50.192531]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:41:50.722674]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:41:50.722810]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:41:50.722888]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:41:50.722975]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:41:50.723070]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:41:50.723175]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:41:50.723251]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:41:51.823355]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:41:51.823496]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:41:51.823572]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:41:51.823663]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:41:51.823814]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:41:51.823932]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:41:51.824008]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:42:44.263238]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:42:44.263394]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:42:44.263472]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:42:44.263561]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:42:44.263650]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:42:44.263758]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:42:44.263833]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:43:24.024653]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:43:24.024811]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:43:24.024908]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:43:24.024999]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:43:24.025089]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:43:24.025198]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:43:24.025275]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:43:24.664643]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:43:24.664794]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:43:24.664873]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:43:24.664961]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:43:24.665053]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:43:24.665162]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:43:24.665238]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:43:30.602064]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:43:30.602200]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:43:30.602278]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:43:30.602370]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:43:30.602480]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:43:30.602592]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:43:30.602667]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:52:44.219016]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-27 00:52:44.219474]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-27 00:52:44.219813]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-27 00:52:44.219994]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-27 00:52:44.255916]:Server #5 Started.
+INFO:root:[INFO][2014-11-27 00:52:53.416795]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:52:53.416941]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:52:53.417025]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:52:53.417278]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:52:53.417358]Syncing-Up Done...
+INFO:root:[info][2014-11-27 00:52:53.418303]mapping table updated -- new key '[u'person2']' added to mapping table from server#5
+INFO:root:[info][2014-11-27 00:52:53.419019]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-27 00:52:53.419234]Server responding -->  Key/Value Pair {person2/number2} has been added to DB
+INFO:root:[INFO][2014-11-27 00:52:53.419649]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:52:53.857266]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:52:53.857401]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:52:53.857479]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:52:53.857891]mapping table updated -- new key '[u'person2']' added to mapping table from server#5
+INFO:root:[INFO][2014-11-27 00:52:53.858157]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:52:53.858753]Server responding -->  The value of KEY "person2" is number2
+INFO:root:[INFO][2014-11-27 00:52:53.858966]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:52:53.943606]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:52:53.943750]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:52:53.943829]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:52:53.944044]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:52:53.944135]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:52:53.955416]Server responding -->  The value of KEY "person3" is number3(by server#1)
+INFO:root:[INFO][2014-11-27 00:52:53.955731]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:54:14.481943]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:54:14.482154]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:54:14.482276]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:54:14.482856]mapping table updated -- new key '[u'person2']' added to mapping table from server#5
+INFO:root:[INFO][2014-11-27 00:54:14.483244]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:54:20.026195]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:54:20.026373]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:54:20.026479]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:54:20.026689]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:54:20.026801]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:54:20.027119]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan4': u'server4', u'Weihan1': u'server1', u'Weihan3': u'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', u'Jaylene3': u'server3', u'Jaylene1': u'server1', u'Jaylene4': u'server4', u'Jaylene5': u'server5', u'person2': u'server5', u'person4': u'server4', u'Test': u'server2'}
+INFO:root:[INFO][2014-11-27 00:54:20.027228]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:54:21.893576]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:54:21.893721]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:54:21.893801]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:54:21.894006]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:54:21.894087]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:54:21.894224]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan4': u'server4', u'Weihan1': u'server1', u'Weihan3': u'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', u'Jaylene3': u'server3', u'Jaylene1': u'server1', u'Jaylene4': u'server4', u'Jaylene5': u'server5', u'person2': u'server5', u'person4': u'server4', u'Test': u'server2'}
+INFO:root:[INFO][2014-11-27 00:54:21.894302]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:54:22.624654]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:54:22.624794]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:54:22.624873]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:54:22.625082]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:54:22.625163]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:54:22.625301]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan4': u'server4', u'Weihan1': u'server1', u'Weihan3': u'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', u'Jaylene3': u'server3', u'Jaylene1': u'server1', u'Jaylene4': u'server4', u'Jaylene5': u'server5', u'person2': u'server5', u'person4': u'server4', u'Test': u'server2'}
+INFO:root:[INFO][2014-11-27 00:54:22.625380]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:54:23.710467]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:54:23.710619]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:54:23.710697]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:54:23.711093]mapping table updated -- new key '[u'person2']' added to mapping table from server#5
+INFO:root:[INFO][2014-11-27 00:54:23.711382]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:54:23.711725]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan4': u'server4', u'Weihan1': u'server1', u'Weihan3': u'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', u'Jaylene3': u'server3', u'Jaylene1': u'server1', u'Jaylene4': u'server4', u'Jaylene5': u'server5', u'person2': 'server5', u'person4': u'server4', u'Test': u'server2'}
+INFO:root:[INFO][2014-11-27 00:54:23.711938]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:54:25.654909]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:54:25.655047]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:54:25.655125]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:54:25.655351]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:54:25.655433]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:54:25.655568]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan4': u'server4', u'Weihan1': u'server1', u'Weihan3': u'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', u'Jaylene3': u'server3', u'Jaylene1': u'server1', u'Jaylene4': u'server4', u'Jaylene5': u'server5', u'person2': u'server5', u'person3': u'server1', u'person4': u'server4', u'person5': u'server1', u'Test': u'server2'}
+INFO:root:[INFO][2014-11-27 00:54:25.655647]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:54:27.568125]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:54:27.568388]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:54:27.568512]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:54:27.568805]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:54:27.568930]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:54:27.569485]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan4': u'server4', u'Weihan1': u'server1', u'Weihan3': u'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', u'Jaylene3': u'server3', u'Jaylene1': u'server1', u'Jaylene4': u'server4', u'Jaylene5': u'server5', u'person2': u'server5', u'person3': u'server1', u'person4': u'server4', u'person5': u'server1', u'Test': u'server2'}
+INFO:root:[INFO][2014-11-27 00:54:27.569745]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:54:33.772277]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:54:33.772433]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:54:33.772514]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:54:33.772709]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:54:33.772791]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:54:33.772925]Server responding -->  The value of KEY "person2" is number2
+INFO:root:[INFO][2014-11-27 00:54:33.773014]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:54:39.594373]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:54:39.594512]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:54:39.594590]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:54:39.594795]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:54:39.594879]Syncing-Up Done...
+INFO:root:[WARNING][2014-11-27 00:54:39.595340]: mapping table contains key -- '[u'person2']' that does not exist on local DB server#5. Deleted it.
+INFO:root:[info][2014-11-27 00:54:39.595787]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-27 00:54:39.595949]Server responding -->  Key/Value Pair of KEY {person2} has been purged from DB
+INFO:root:[INFO][2014-11-27 00:54:39.596167]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:54:43.173398]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:54:43.173597]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:54:43.173720]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:54:43.174004]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:54:43.174118]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:54:43.174289]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:54:43.174434]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:25:19.595448]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-27 01:25:19.595887]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-27 01:25:19.596368]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-27 01:25:19.596579]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-27 01:25:19.635989]:Server #5 Started.
+INFO:root:[INFO][2014-11-27 01:25:48.128685]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:25:48.128916]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:25:48.129070]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:25:48.129453]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:25:48.129580]Syncing-Up Done...
+INFO:root:[info][2014-11-27 01:25:48.130936]mapping table updated -- new key '[u'person3']' added to mapping table from server#5
+INFO:root:[info][2014-11-27 01:25:48.131789]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-27 01:25:48.131982]Server responding -->  Key/Value Pair {person3/number3} has been added to DB
+INFO:root:[INFO][2014-11-27 01:25:48.132487]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:25:48.643628]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:25:48.643774]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:25:48.643852]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:25:48.644293]mapping table updated -- new key '[u'person3']' added to mapping table from server#5
+INFO:root:[INFO][2014-11-27 01:25:48.644570]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:25:48.645180]Server responding -->  The value of KEY "person3" is number3
+INFO:root:[INFO][2014-11-27 01:25:48.645391]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:32:22.460864]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-27 01:32:22.461474]mapping table updated -- new key '[u'person3']' added to mapping table from server#5
+INFO:root:[info][2014-11-27 01:32:22.461898]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-27 01:32:22.462096]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-27 01:32:22.498868]:Server #5 Started.
+INFO:root:[INFO][2014-11-27 01:32:34.837909]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:32:34.838044]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:32:34.838128]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:32:34.838591]mapping table updated -- new key '[u'person3']' added to mapping table from server#5
+INFO:root:[INFO][2014-11-27 01:32:34.838874]Syncing-Up Done...
+INFO:root:[info][2014-11-27 01:32:34.840017]mapping table updated -- new key '[u'person4']' added to mapping table from server#5
+INFO:root:[info][2014-11-27 01:32:34.840333]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-27 01:32:34.840489]Server responding -->  Key/Value Pair {person4/number4} has been added to DB
+INFO:root:[INFO][2014-11-27 01:32:34.841006]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:32:35.123017]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:32:35.123169]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:32:35.123246]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:32:35.123663]mapping table updated -- new key '[u'person3', u'person4']' added to mapping table from server#5
+INFO:root:[INFO][2014-11-27 01:32:35.123951]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:32:35.136753]Server responding -->  The value of KEY "person2" is number2(by server#4)
+INFO:root:[INFO][2014-11-27 01:32:35.136973]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:32:35.639210]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:32:35.639379]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:32:35.639458]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:32:35.639863]mapping table updated -- new key '[u'person3', u'person4']' added to mapping table from server#5
+INFO:root:[INFO][2014-11-27 01:32:35.640154]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:32:35.646542]Server responding -->  Key/Value Pair of KEY {person2} has been purged from DB(by server#4)
+INFO:root:[INFO][2014-11-27 01:32:35.646755]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:32:35.749334]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:32:35.749477]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:32:35.749557]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:32:35.750154]mapping table updated -- new key '[u'person4']' added to mapping table from server#5
+INFO:root:[INFO][2014-11-27 01:32:35.750356]Syncing-Up Done...
+INFO:root:[WARNING][2014-11-27 01:32:35.750974]: mapping table contains key -- '[u'person3']' that does not exist on local DB server#5. Deleted it.
+INFO:root:[info][2014-11-27 01:32:35.751381]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-27 01:32:35.751586]Server responding -->  Key/Value Pair of KEY {person3} has been purged from DB
+INFO:root:[INFO][2014-11-27 01:32:35.751772]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:32:35.859257]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:32:35.859450]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:32:35.859559]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:32:35.859819]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:32:35.859927]Syncing-Up Done...
+INFO:root:[WARNING][2014-11-27 01:32:35.860438]: mapping table contains key -- '[u'person4']' that does not exist on local DB server#5. Deleted it.
+INFO:root:[info][2014-11-27 01:32:35.860952]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-27 01:32:35.861159]Server responding -->  Key/Value Pair of KEY {person4} has been purged from DB
+INFO:root:[INFO][2014-11-27 01:32:35.861411]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:32:35.960552]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:32:35.960689]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:32:35.960765]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:32:35.960961]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:32:35.961041]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:32:35.966973]Server responding -->  Key/Value Pair of KEY {person5} has been purged from DB(by server#1)
+INFO:root:[INFO][2014-11-27 01:32:35.967184]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:32:58.623965]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:32:58.624103]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:32:58.624183]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:32:58.624383]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:32:58.624467]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:32:58.624599]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan4': u'server4', u'Weihan1': u'server1', u'Weihan3': u'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', u'Jaylene3': u'server3', u'Jaylene1': u'server1', u'Jaylene4': u'server4', u'Jaylene5': u'server5', u'person2': u'server1', u'person3': u'server1', u'Test': u'server2'}
+INFO:root:[INFO][2014-11-27 01:32:58.624678]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:33:12.324288]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:33:12.324466]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:33:12.324598]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:33:12.324876]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:33:12.324973]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:33:12.330119]Server responding -->  The value of KEY "person3" is number3(by server#1)
+INFO:root:[INFO][2014-11-27 01:33:12.330347]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:58:10.266474]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-27 01:58:10.267058]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-27 01:58:10.267540]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-27 01:58:10.267779]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-27 01:58:10.305795]:Server #5 Started.
+INFO:root:[INFO][2014-11-27 01:58:27.587443]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:58:27.587602]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:58:27.587723]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:58:27.587987]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:58:27.588067]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:58:27.588603]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 01:58:27.588973]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:58:27.871292]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:58:27.871427]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:58:27.871504]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:58:27.871694]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:58:27.871773]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:58:27.872208]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 01:58:27.872408]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:58:28.147329]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:58:28.147483]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:58:28.147567]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:58:28.147784]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:58:28.147877]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:58:28.147985]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 01:58:28.148061]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:02:17.335974]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:02:17.336114]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:02:17.336193]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:02:17.336397]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:02:17.336520]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:02:17.336638]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 02:02:17.336716]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:02:17.885008]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:02:17.885193]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:02:17.885319]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:02:17.885574]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:02:17.885701]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:02:17.885866]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 02:02:17.885988]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:17:23.182079]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-27 02:17:23.182473]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-27 02:17:23.182825]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-27 02:17:23.183000]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-27 02:17:23.218482]:Server #5 Started.
+INFO:root:[INFO][2014-11-27 02:17:28.799985]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:17:28.800124]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:17:28.800206]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:17:28.800449]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:17:28.800530]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:17:28.979382]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:17:28.979520]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:17:28.979601]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:17:28.979833]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:17:28.979917]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:17:28.980197]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 02:17:28.980286]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:17:29.156402]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:17:29.156555]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:17:29.156633]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:17:29.156833]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:17:29.156916]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:17:29.157026]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 02:17:29.157102]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:17:29.695032]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:17:29.695185]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:17:29.695289]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:17:29.695488]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:17:29.695569]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:17:29.695682]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 02:17:29.695758]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:21:45.621509]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:21:45.621665]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:21:45.621742]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:21:45.621967]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:21:45.622048]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:21:45.729702]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:21:45.729858]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:21:45.729934]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:21:45.730134]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:21:45.730213]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:21:45.730326]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 02:21:45.730401]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:21:45.826600]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:21:45.826755]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:21:45.826833]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:21:45.827067]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:21:45.827193]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:21:45.827369]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 02:21:45.827495]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:21:45.921357]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:21:45.921599]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:21:45.921729]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:21:45.922065]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:21:45.922193]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:21:45.922397]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 02:21:45.922496]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:21:46.221344]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:21:46.221506]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:21:46.221585]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:21:46.221785]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:21:46.221892]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:21:46.222005]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 02:21:46.222080]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:42:47.958199]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-27 02:42:47.958623]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-27 02:42:47.958956]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-27 02:42:47.959100]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-27 02:42:47.994989]:Server #5 Started.
+INFO:root:[INFO][2014-11-27 02:42:54.096148]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:42:54.096286]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:42:54.096372]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:42:54.096620]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:42:54.096701]Syncing-Up Done...
+INFO:root:[info][2014-11-27 02:42:54.097645]mapping table updated -- new key '[u'person1']' added to mapping table from server#5
+INFO:root:[info][2014-11-27 02:42:54.098404]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-27 02:42:54.098585]Server responding -->  Key/Value Pair {person1/number1} has been added to DB
+INFO:root:[INFO][2014-11-27 02:42:54.098955]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:42:54.546747]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:42:54.546887]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:42:54.546965]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:42:54.547174]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:42:54.547258]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:42:54.547634]Server responding -->  The value of KEY "person1" is number1
+INFO:root:[INFO][2014-11-27 02:42:54.547747]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:42:54.725529]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:42:54.725666]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:42:54.725745]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:42:54.725948]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:42:54.726041]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:42:54.736678]Server responding -->  The value of KEY "person3" is number3(by server#1)
+INFO:root:[INFO][2014-11-27 02:42:54.736909]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:42:55.024098]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:42:55.024236]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:42:55.024314]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:42:55.024513]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:42:55.024593]Syncing-Up Done...
+INFO:root:[WARNING][2014-11-27 02:42:55.025286]: mapping table contains key -- '[u'person1']' that does not exist on local DB server#5. Deleted it.
+INFO:root:[info][2014-11-27 02:42:55.025584]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-27 02:42:55.025741]Server responding -->  Key/Value Pair of KEY {person1} has been purged from DB
+INFO:root:[INFO][2014-11-27 02:42:55.025905]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:43:07.041197]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:43:07.041368]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:43:07.041456]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:43:07.041689]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:43:07.041829]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:43:07.041970]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan4': u'server4', u'Weihan1': u'server1', u'Weihan3': u'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', u'Jaylene3': u'server3', u'Jaylene1': u'server1', u'Jaylene4': u'server4', u'Jaylene5': u'server5'}
+INFO:root:[INFO][2014-11-27 02:43:07.042050]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:43:32.403955]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:43:32.404105]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:43:32.404182]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:43:32.404377]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:43:32.404456]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:43:32.410949]Server responding -->  Key/Value Pair {test1/test1} has been added to DB(by server#2)
+INFO:root:[INFO][2014-11-27 02:43:32.411249]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:45:31.100579]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-11-27 02:45:31.100970]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[info][2014-11-27 02:45:31.101306]Local disk DB updated with DB on memory on server#5.
+INFO:root:[info][2014-11-27 02:45:31.101456]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-11-27 02:45:31.134884]:Server #5 Started.
+INFO:root:[INFO][2014-11-27 02:45:36.365437]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:45:36.365574]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:45:36.365659]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:45:36.365899]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:45:36.365992]Syncing-Up Done...
+INFO:root:[info][2014-11-27 02:45:36.366945]mapping table updated -- new key '[u'person1']' added to mapping table from server#5
+INFO:root:[info][2014-11-27 02:45:36.367663]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-27 02:45:36.367829]Server responding -->  Key/Value Pair {person1/number1} has been added to DB
+INFO:root:[INFO][2014-11-27 02:45:36.368195]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:45:36.457173]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:45:36.457312]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:45:36.457390]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:45:36.457591]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:45:36.457707]Syncing-Up Done...
+INFO:root:[info][2014-11-27 02:45:36.458059]mapping table updated -- new key '[u'person2']' added to mapping table from server#5
+INFO:root:[info][2014-11-27 02:45:36.458508]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-27 02:45:36.458667]Server responding -->  Key/Value Pair {person2/number2} has been added to DB
+INFO:root:[INFO][2014-11-27 02:45:36.458841]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:45:36.632578]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:45:36.632713]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:45:36.632791]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:45:36.633016]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:45:36.633097]Syncing-Up Done...
+INFO:root:[info][2014-11-27 02:45:36.633455]mapping table updated -- new key '[u'person4']' added to mapping table from server#5
+INFO:root:[info][2014-11-27 02:45:36.633897]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-27 02:45:36.634052]Server responding -->  Key/Value Pair {person4/number4} has been added to DB
+INFO:root:[INFO][2014-11-27 02:45:36.634223]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:45:36.807683]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:45:36.807821]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:45:36.807899]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:45:36.808103]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:45:36.808184]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:45:36.808810]Server responding -->  The value of KEY "person1" is number1
+INFO:root:[INFO][2014-11-27 02:45:36.809092]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:45:36.913939]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:45:36.914104]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:45:36.914211]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:45:36.914542]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:45:36.914624]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:45:36.914757]Server responding -->  The value of KEY "person2" is number2
+INFO:root:[INFO][2014-11-27 02:45:36.914843]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:45:37.121165]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:45:37.121306]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:45:37.121385]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:45:37.121593]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:45:37.121676]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:45:37.122109]Server responding -->  The value of KEY "person4" is number4
+INFO:root:[INFO][2014-11-27 02:45:37.122278]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:45:37.304774]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:45:37.304951]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:45:37.305088]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:45:37.305353]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:45:37.305437]Syncing-Up Done...
+INFO:root:[WARNING][2014-11-27 02:45:37.305974]: mapping table contains key -- '[u'person1']' that does not exist on local DB server#5. Deleted it.
+INFO:root:[info][2014-11-27 02:45:37.306468]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-27 02:45:37.306656]Server responding -->  Key/Value Pair of KEY {person1} has been purged from DB
+INFO:root:[INFO][2014-11-27 02:45:37.306909]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:45:37.405006]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:45:37.405198]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:45:37.405293]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:45:37.405531]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:45:37.405612]Syncing-Up Done...
+INFO:root:[WARNING][2014-11-27 02:45:37.405978]: mapping table contains key -- '[u'person2']' that does not exist on local DB server#5. Deleted it.
+INFO:root:[info][2014-11-27 02:45:37.406425]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-27 02:45:37.406586]Server responding -->  Key/Value Pair of KEY {person2} has been purged from DB
+INFO:root:[INFO][2014-11-27 02:45:37.406821]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:45:37.498757]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:45:37.498910]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:45:37.498986]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:45:37.499195]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:45:37.499276]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:45:37.510923]Server responding -->  Key/Value Pair of KEY {person3} has been purged from DB(<-- server#3)
+INFO:root:[INFO][2014-11-27 02:45:37.511178]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:45:37.610586]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:45:37.610740]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:45:37.610818]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:45:37.611026]SELF_TEST: DB on server#5 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:45:37.611107]Syncing-Up Done...
+INFO:root:[WARNING][2014-11-27 02:45:37.611510]: mapping table contains key -- '[u'person4']' that does not exist on local DB server#5. Deleted it.
+INFO:root:[info][2014-11-27 02:45:37.612000]Local disk DB updated with DB on memory on server#5.
+INFO:root:[INFO][2014-11-27 02:45:37.612152]Server responding -->  Key/Value Pair of KEY {person4} has been purged from DB
+INFO:root:[INFO][2014-11-27 02:45:37.612325]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-12-01 04:08:54.281036]:local DB loaded onto Memory on server#5.
+INFO:root:[info][2014-12-01 04:08:54.281309]:Name space 'server_no5.tcss558' assigned to server#5.
+INFO:root:[2014-12-01 04:08:54.317057]:Server #5 Started.
+INFO:root:[INFO][2014-12-01 04:08:56.682046]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:08:56.682183]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:08:56.690691]:+++++++++ Role Sync-up recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:08:56.691157]:+++++++++ Server#5 now knows its role is SECONDARY ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:07.549247]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:07.549382]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:07.571491]:+++++++++ Role Sync-up recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:07.571980]:+++++++++ Server#5 now knows its role is SECONDARY ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:18.432673]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:18.432810]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:18.458352]:+++++++++ Role Sync-up recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:18.458865]:+++++++++ Server#5 now knows its role is SECONDARY ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:29.325392]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:29.325530]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:29.953631]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:29.953779]Request coming from Client:
+INFO:root:[INFO][2014-12-01 04:09:29.955234]Server responding -->  The value of KEY "person2" is number2
+INFO:root:[INFO][2014-12-01 04:09:29.955909]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-12-01 04:09:30.226927]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:30.227062]Request coming from Client:
+INFO:root:[INFO][2014-12-01 04:09:30.227600]Server responding -->  The value of KEY "person5" is number5
+INFO:root:[INFO][2014-12-01 04:09:30.227916]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-12-01 04:09:40.180596]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:40.180727]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:44.890904]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:44.891059]Request coming from Client:
+INFO:root:[INFO][2014-12-01 04:09:44.891640]Server responding -->  local DB (a copy of Primary) status: {'Weihan4': '2065197252', 'Jaylene4': '2533550659'}
+INFO:root:[INFO][2014-12-01 04:09:44.891854]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-12-01 04:09:45.993188]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:45.993344]Request coming from Client:
+INFO:root:[INFO][2014-12-01 04:09:45.993788]Server responding -->  local DB (a copy of Primary) status: {'Weihan4': '2065197252', 'Jaylene4': '2533550659'}
+INFO:root:[INFO][2014-12-01 04:09:45.993874]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-12-01 04:09:51.038815]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:51.038945]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:52.934871]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-12-01 04:09:52.935009]Request coming from Client:
+INFO:root:[INFO][2014-12-01 04:09:52.935449]Server responding -->  local DB (a copy of Primary) status: {'Weihan4': '2065197252', 'Jaylene4': '2533550659'}
+INFO:root:[INFO][2014-12-01 04:09:52.935814]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-12-01 04:10:01.904307]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:01.904441]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:09.709222]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:09.709378]Request coming from Client:
+INFO:root:[INFO][2014-12-01 04:10:09.710264]Server responding -->  local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', 'Jaylene4': '2533550659'}
+INFO:root:[INFO][2014-12-01 04:10:09.710571]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-12-01 04:10:12.775440]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:12.775577]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:12.777140]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:12.777233]Request coming from Client:
+INFO:root:[INFO][2014-12-01 04:10:12.777703]Server responding -->  local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', 'Jaylene4': '2533550659'}
+INFO:root:[INFO][2014-12-01 04:10:12.777886]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-12-01 04:10:18.110727]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:18.110867]Request coming from Client:
+INFO:root:[INFO][2014-12-01 04:10:18.111338]Server responding -->  local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', 'Jaylene4': '2533550659'}
+INFO:root:[INFO][2014-12-01 04:10:18.111647]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-12-01 04:10:19.309034]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:19.309189]Request coming from Client:
+INFO:root:[INFO][2014-12-01 04:10:19.309674]Server responding -->  local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', 'Jaylene4': '2533550659'}
+INFO:root:[INFO][2014-12-01 04:10:19.310028]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-12-01 04:10:23.634126]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:23.634258]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:31.564803]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:31.564972]Request coming from Client:
+INFO:root:[INFO][2014-12-01 04:10:31.565494]Server responding -->  local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}
+INFO:root:[INFO][2014-12-01 04:10:31.565866]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-12-01 04:10:34.493398]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:34.493532]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:35.694081]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:35.694239]Request coming from Client:
+INFO:root:[INFO][2014-12-01 04:10:35.694746]Server responding -->  local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}
+INFO:root:[INFO][2014-12-01 04:10:35.695056]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-12-01 04:10:38.465671]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:38.465814]Request coming from Client:
+INFO:root:[INFO][2014-12-01 04:10:38.466300]Server responding -->  local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}
+INFO:root:[INFO][2014-12-01 04:10:38.466670]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-12-01 04:10:38.903588]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:38.903727]Request coming from Client:
+INFO:root:[INFO][2014-12-01 04:10:38.904218]Server responding -->  local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}
+INFO:root:[INFO][2014-12-01 04:10:38.904529]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-12-01 04:10:40.226140]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:40.226295]Request coming from Client:
+INFO:root:[INFO][2014-12-01 04:10:40.226822]Server responding -->  local DB (a copy of Primary) status: {u'Test1': u'Test1', 'Weihan4': '2065197252', u'Test2': u'Test2', 'Jaylene4': '2533550659'}
+INFO:root:[INFO][2014-12-01 04:10:40.227148]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-12-01 04:10:45.352013]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:45.352156]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:56.214615]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:10:56.214759]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:11:07.075666]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:11:07.075800]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:11:17.935259]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:11:17.935393]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:11:28.795238]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:11:28.795374]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:11:39.654893]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:11:39.655056]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:11:50.514229]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:11:50.514359]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:12:01.375276]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:12:01.375411]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:12:12.235207]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:12:12.235369]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:12:23.093353]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:12:23.093484]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:12:33.953789]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:12:33.953924]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:12:44.815464]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:12:44.815601]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:12:55.673909]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:12:55.674040]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:13:06.534822]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:13:06.534984]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:13:17.394394]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:13:17.394532]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:13:28.253970]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:13:28.254108]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:13:39.111436]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:13:39.111570]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:13:49.972012]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:13:49.972143]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:14:00.831999]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:14:00.832147]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:14:11.690295]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:14:11.690428]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:14:22.549617]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:14:22.549748]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:14:33.411653]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:14:33.411785]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:14:44.271764]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:14:44.271899]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:14:55.130409]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:14:55.130545]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:15:05.990684]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:15:05.990820]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:15:16.852304]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:15:16.852439]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:15:27.710168]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:15:27.710312]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:15:38.566650]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:15:38.566785]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:15:49.427314]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:15:49.427529]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:16:00.286629]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:16:00.286769]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:16:11.147685]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:16:11.147879]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:16:22.004637]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:16:22.004770]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:16:32.865500]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:16:32.865634]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:16:43.722153]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:16:43.722334]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:16:54.580591]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:16:54.580728]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:17:05.440824]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:17:05.441012]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:17:16.298762]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:17:16.298932]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:17:27.158267]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:17:27.158452]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:17:38.019577]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:17:38.019723]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:17:48.877832]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:17:48.877964]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:17:59.735645]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:17:59.735798]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:18:10.594234]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:18:10.594368]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:18:21.451492]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:18:21.451627]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:18:32.310010]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:18:32.310147]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:18:43.168539]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:18:43.168677]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:18:54.029432]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:18:54.029576]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:19:04.888573]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:19:04.888707]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:19:15.748584]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:19:15.748719]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:19:26.607387]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:19:26.607518]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:19:37.465170]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:19:37.465352]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:19:48.325989]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:19:48.326126]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:19:59.184362]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:19:59.184527]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:20:10.044757]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:20:10.044909]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:20:20.902255]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:20:20.902391]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:20:31.760965]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:20:31.761129]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:20:42.619926]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:20:42.620105]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:20:53.479821]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:20:53.479979]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:21:04.340668]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:21:04.340799]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:21:15.200622]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:21:15.200756]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:21:26.057928]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:21:26.058064]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:21:36.917366]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:21:36.917503]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:21:47.774587]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:21:47.774722]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:21:58.633803]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:21:58.634048]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:22:09.491808]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:22:09.491943]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:22:20.351046]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:22:20.351206]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:22:31.209627]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:22:31.209767]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:22:42.069466]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:22:42.069601]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:22:52.932325]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:22:52.932471]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:23:03.792242]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:23:03.792379]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:23:14.652085]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:23:14.652225]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:23:25.514378]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:23:25.514511]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:23:36.372250]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:23:36.372385]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:23:47.229444]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:23:47.229580]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:23:58.087295]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:23:58.087431]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:24:08.948106]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:24:08.948261]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:24:19.806257]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:24:19.806421]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:24:30.666849]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:24:30.666982]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:24:41.527254]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:24:41.527387]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:24:52.385682]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:24:52.385892]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:25:03.250234]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:25:03.250420]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:25:14.109049]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:25:14.109194]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:25:24.969813]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:25:24.969973]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:25:35.831008]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:25:35.831145]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:25:46.690063]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:25:46.690206]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:25:57.549615]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:25:57.549781]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:26:08.409239]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:26:08.409376]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:26:19.267515]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:26:19.267713]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:26:30.128025]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:26:30.128175]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:26:40.991242]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:26:40.991384]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:26:51.856375]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:26:51.856521]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:27:02.718214]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:27:02.718349]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:27:13.578969]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:27:13.579105]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:27:24.437253]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:27:24.437414]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:27:35.295309]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:27:35.295442]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:27:46.154913]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:27:46.155052]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:27:57.021087]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:27:57.021307]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:28:07.880733]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:28:07.880871]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:28:18.740768]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:28:18.740903]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:28:29.600473]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:28:29.600612]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:28:40.458100]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:28:40.458237]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:28:51.316009]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:28:51.316140]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:29:02.174536]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:29:02.174665]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:29:13.032464]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:29:13.032596]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:29:23.894156]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:29:23.894359]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:29:34.752285]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:29:34.752466]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:29:45.613435]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:29:45.613575]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:29:56.470636]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:29:56.470769]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:30:07.331220]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:30:07.331359]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:30:18.192592]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:30:18.192727]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:30:29.058184]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:30:29.058319]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:30:39.915995]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:30:39.916169]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:30:50.774376]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:30:50.774515]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:31:01.634163]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:31:01.634297]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:31:12.493040]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:31:12.493197]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:31:23.348799]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:31:23.348941]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:31:34.204761]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:31:34.204896]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:31:45.063795]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:31:45.063928]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:31:55.924920]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:31:55.925109]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:32:06.784435]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:32:06.784574]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:32:17.643273]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:32:17.643409]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:32:28.504165]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:32:28.504302]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:32:39.363495]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:32:39.363643]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:32:50.226474]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:32:50.226626]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:33:01.087840]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:33:01.087974]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:33:11.947275]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:33:11.947414]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:33:22.808715]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:33:22.808876]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:33:33.669923]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:33:33.670076]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:33:44.527070]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:33:44.527210]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:33:55.386151]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:33:55.386312]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:34:06.244587]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:34:06.244721]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:34:17.105649]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:34:17.105787]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:34:27.965871]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:34:27.966011]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:34:38.826880]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:34:38.827047]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:34:49.685501]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:34:49.685637]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:35:00.543532]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:35:00.543664]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:35:11.409237]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:35:11.409419]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:35:22.268206]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:35:22.268340]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:35:33.127047]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:35:33.127182]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:35:43.987061]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:35:43.987247]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:35:54.846004]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:35:54.846151]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:36:05.708061]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:36:05.708201]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:36:16.567173]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:36:16.567319]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:36:27.427856]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:36:27.428014]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:36:38.286778]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:36:38.286941]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:36:49.146573]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:36:49.146708]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:37:00.005408]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:37:00.005557]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:37:10.864821]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:37:10.864954]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:37:21.723438]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:37:21.723578]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:37:32.583468]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:37:32.583612]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:37:43.451269]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:37:43.451403]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:37:54.310043]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:37:54.310180]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:38:05.167097]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:38:05.167233]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:38:16.024417]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:38:16.024546]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:38:26.885393]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:38:26.885525]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:38:37.745703]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:38:37.745840]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:38:48.604168]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:38:48.604308]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:38:59.465778]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:38:59.465919]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:39:10.327043]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:39:10.327175]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:39:21.185852]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:39:21.186012]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:39:32.042510]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:39:32.042645]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:39:42.901160]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:39:42.901291]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:39:53.761259]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:39:53.761391]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:40:04.621608]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:40:04.621748]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:40:15.483981]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:40:15.484132]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:40:26.343816]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:40:26.343949]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:40:37.202164]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:40:37.202348]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:40:48.063815]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:40:48.063950]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:40:58.920997]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:40:58.921130]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:41:09.780048]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:41:09.780247]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:41:20.641077]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:41:20.641232]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:41:31.500193]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:41:31.500329]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:41:42.359151]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:41:42.359285]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:41:53.217898]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:41:53.218034]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:42:04.077011]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:42:04.077145]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:42:14.936382]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:42:14.936543]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:42:25.794946]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:42:25.795127]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:42:36.657381]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:42:36.657525]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:42:47.516767]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:42:47.516934]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:42:58.376255]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:42:58.376390]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:43:09.237368]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:43:09.237506]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:43:20.097175]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:43:20.097308]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:43:30.955305]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:43:30.955441]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:43:41.813452]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:43:41.813585]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:43:52.675431]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:43:52.675572]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:44:03.533984]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:44:03.534130]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:44:14.393000]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:44:14.393159]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:44:25.253004]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:44:25.253193]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:44:36.112663]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:44:36.112794]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:44:46.969893]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:44:46.970026]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:44:57.829021]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:44:57.829166]:+++++++++ HB responded from server#5 to Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:45:08.689325]:+++++++++ HB request recevied from Arbiter ++++++++.
+INFO:root:[INFO][2014-12-01 04:45:08.689460]:+++++++++ HB responded from server#5 to Arbiter ++++++++.

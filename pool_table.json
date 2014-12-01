@@ -1,0 +1,1 @@
+{"alive_list": [1, 2, 3, 4, 5], "PRIMARY": 4, "server#1": ["SECONDARY", "ALIVE", "NONE", "SECONDARY"], "server#2": ["SECONDARY", "ALIVE", "NONE", "SECONDARY"], "server#3": ["SECONDARY", "ALIVE", "NONE", "SECONDARY"], "server#4": ["PRIMARY", "ALIVE", "NONE", "PRIMARY"], "server#5": ["SECONDARY", "ALIVE", "NONE", "SECONDARY"], "down_list": []}
